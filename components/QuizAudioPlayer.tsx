@@ -51,7 +51,7 @@ export default function QuizAudioPlayer({
       clearTimeout(timerRef.current);
       timerRef.current = null;
     }
-    if (playerRef.current) {
+    if (playerRef.current && typeof playerRef.current.pauseVideo === "function") {
       playerRef.current.pauseVideo();
     }
     setIsPlaying(false);

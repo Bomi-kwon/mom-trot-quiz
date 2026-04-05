@@ -6,7 +6,7 @@ export async function generateDailyQuestions(
   date: string
 ): Promise<QuizQuestion[]> {
   const genAI = new GoogleGenerativeAI(process.env.GEMINI_API_KEY!);
-  const model = genAI.getGenerativeModel({ model: "gemini-2.0-flash" });
+  const model = genAI.getGenerativeModel({ model: "gemini-2.5-flash" });
 
   const prompt = `당신은 트로트 퀴즈 출제자입니다.
 아래 제공된 데이터에서만 문제를 출제하세요. 데이터에 없는 정보를 절대 만들어내지 마세요.
@@ -18,7 +18,7 @@ export async function generateDailyQuestions(
 - 오디오 퀴즈(audio_quizzes)가 데이터에 있으면 1문제 포함
 - 각 문제에 간단한 해설을 포함합니다
 - 4지선다의 오답 보기도 반드시 데이터에 존재하는 가수/곡에서 선택합니다
-- 초성 퀴즈의 경우 initial_consonant 필드에 정답의 초성을 넣어주세요
+- 초성 퀴즈의 경우 initial_consonant 필드에 정답의 초성을 넣어주세요. 초성 퀴즈는 주관식이므로 options는 빈 배열([])로 설정하세요
 - O/X 퀴즈의 경우 options는 ["O", "X"]로, answer는 "O" 또는 "X"로 설정하세요
 - 난이도는 쉽게 (팬이라면 맞출 수 있는 수준)
 - 어제와 같은 문제가 나오지 않도록 다양하게 조합합니다

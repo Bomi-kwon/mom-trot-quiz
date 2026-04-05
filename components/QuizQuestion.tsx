@@ -19,7 +19,10 @@ export default function QuizQuestion({
   onAnswer,
 }: QuizQuestionProps) {
   const [selectedAnswer, setSelectedAnswer] = useState<string | null>(null);
+  const [textInput, setTextInput] = useState("");
   const [showFeedback, setShowFeedback] = useState(false);
+
+  const isInitialConsonant = question.format === "initial_consonant";
 
   const handleSelect = (option: string) => {
     if (showFeedback) return;
@@ -27,7 +30,15 @@ export default function QuizQuestion({
     setShowFeedback(true);
   };
 
-  const isCorrect = selectedAnswer === question.answer;
+  const handleTextSubmit = () => {
+    if (showFeedback || !textInput.trim()) return;
+    setSelectedAnswer(textInput.trim());
+    setShowFeedback(true);
+  };
+
+  const isCorrect = isInitialConsonant
+    ? selectedAnswer?.replace(/\s/g, "") === question.answer.replace(/\s/g, "")
+    : selectedAnswer === question.answer;
   const isLast = questionNumber === totalQuestions;
 
   const getOptionStyle = (option: string) => {
@@ -100,28 +111,49 @@ export default function QuizQuestion({
         />
       )}
 
-      {/* Options */}
-      <div className="flex flex-col gap-3 mt-4">
-        {question.options.map((option, index) => (
-          <button
-            key={index}
-            onClick={() => handleSelect(option)}
+      {/* Answer input */}
+      {isInitialConsonant ? (
+        <div className="flex flex-col gap-3 mt-4">
+          <input
+            type="text"
+            value={textInput}
+            onChange={(e) => setTextInput(e.target.value)}
+            onKeyDown={(e) => e.key === "Enter" && handleTextSubmit()}
             disabled={showFeedback}
-            className={`w-full text-left text-lg font-medium py-4 px-5 rounded-xl transition-all ${getOptionStyle(option)} disabled:cursor-default`}
+            placeholder="정답을 입력하세요"
+            className="w-full text-lg font-medium py-4 px-5 rounded-xl border-2 border-gray-200 focus:border-purple-400 focus:outline-none disabled:bg-gray-100"
+          />
+          <button
+            onClick={handleTextSubmit}
+            disabled={showFeedback || !textInput.trim()}
+            className="w-full bg-purple-500 hover:bg-purple-600 active:bg-purple-700 text-white text-lg font-bold py-4 rounded-xl transition-all disabled:opacity-50"
           >
-            {question.format === "ox" ? (
-              <span className="text-2xl font-bold">{option}</span>
-            ) : (
-              <span>
-                <span className="text-pink-400 mr-2">
-                  {["①", "②", "③", "④"][index]}
-                </span>
-                {option}
-              </span>
-            )}
+            확인
           </button>
-        ))}
-      </div>
+        </div>
+      ) : (
+        <div className="flex flex-col gap-3 mt-4">
+          {(question.options || []).map((option, index) => (
+            <button
+              key={index}
+              onClick={() => handleSelect(option)}
+              disabled={showFeedback}
+              className={`w-full text-left text-lg font-medium py-4 px-5 rounded-xl transition-all ${getOptionStyle(option)} disabled:cursor-default`}
+            >
+              {question.format === "ox" ? (
+                <span className="text-2xl font-bold">{option}</span>
+              ) : (
+                <span>
+                  <span className="text-pink-400 mr-2">
+                    {["①", "②", "③", "④"][index]}
+                  </span>
+                  {option}
+                </span>
+              )}
+            </button>
+          ))}
+        </div>
+      )}
 
       {/* Feedback */}
       {showFeedback && (
