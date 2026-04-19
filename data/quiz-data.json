@@ -2,10 +2,14 @@
   "singers": [
     {
       "name": "임영웅",
-      "image": "/images/singers/임영웅.jpg",
+      "image": "/images/singers/임영웅.webp",
       "program": "미스터트롯 시즌1",
       "rank": "진",
-      "songs": ["사랑은 늘 도망가", "이제 나만 믿어요", "어느 60대 노부부의 이야기"],
+      "songs": [
+        "사랑은 늘 도망가",
+        "이제 나만 믿어요",
+        "어느 60대 노부부의 이야기"
+      ],
       "facts": [
         "1991년생",
         "경남 포항 출신",
@@ -15,10 +19,14 @@
     },
     {
       "name": "영탁",
-      "image": "/images/singers/영탁.jpg",
+      "image": "/images/singers/영탁.webp",
       "program": "미스터트롯 시즌1",
       "rank": "선",
-      "songs": ["찐이야", "막걸리 한잔", "왜 이래"],
+      "songs": [
+        "찐이야",
+        "막걸리 한잔",
+        "왜 이래"
+      ],
       "facts": [
         "1987년생",
         "경북 영주 출신",
@@ -28,10 +36,14 @@
     },
     {
       "name": "이찬원",
-      "image": "/images/singers/이찬원.jpg",
+      "image": "/images/singers/이찬원.webp",
       "program": "미스터트롯 시즌1",
       "rank": "미",
-      "songs": ["진또배기", "편의점", "참 좋은 사람"],
+      "songs": [
+        "진또배기",
+        "편의점",
+        "참 좋은 사람"
+      ],
       "facts": [
         "1997년생",
         "서울 출신",
@@ -41,10 +53,13 @@
     },
     {
       "name": "정동원",
-      "image": "/images/singers/정동원.jpg",
+      "image": "/images/singers/정동원.webp",
       "program": "미스터트롯 시즌1",
       "rank": "수",
-      "songs": ["여백", "아버지의 강"],
+      "songs": [
+        "여백",
+        "아버지의 강"
+      ],
       "facts": [
         "2007년생",
         "전남 목포 출신",
@@ -54,10 +69,13 @@
     },
     {
       "name": "장민호",
-      "image": "/images/singers/장민호.jpg",
+      "image": "/images/singers/장민호.webp",
       "program": "미스터트롯 시즌1",
       "rank": "우",
-      "songs": ["남자는 말합니다", "정이 뭐길래"],
+      "songs": [
+        "남자는 말합니다",
+        "정이 뭐길래"
+      ],
       "facts": [
         "1977년생",
         "경남 사천 출신",
@@ -67,10 +85,14 @@
     },
     {
       "name": "안성훈",
-      "image": "/images/singers/안성훈.jpg",
+      "image": "/images/singers/안성훈.webp",
       "program": "미스터트롯2",
       "rank": "진",
-      "songs": ["그대 내 친구여", "은인", "시절인연"],
+      "songs": [
+        "그대 내 친구여",
+        "은인",
+        "시절인연"
+      ],
       "facts": [
         "1989년생",
         "경기도 시흥 출신",
@@ -80,10 +102,14 @@
     },
     {
       "name": "박지현",
-      "image": "/images/singers/박지현.jpg",
+      "image": "/images/singers/박지현.webp",
       "program": "미스터트롯2",
       "rank": "선",
-      "songs": ["못난 놈", "떠날 수 없는 당신", "깜빡이를 키고 오세요"],
+      "songs": [
+        "못난 놈",
+        "떠날 수 없는 당신",
+        "깜빡이를 키고 오세요"
+      ],
       "facts": [
         "1995년생",
         "전남 목포 출신",
@@ -93,10 +119,13 @@
     },
     {
       "name": "진해성",
-      "image": "/images/singers/진해성.jpg",
+      "image": "/images/singers/진해성.avif",
       "program": "미스터트롯2",
       "rank": "미",
-      "songs": ["모정의 세월", "가라지"],
+      "songs": [
+        "모정의 세월",
+        "가라지"
+      ],
       "facts": [
         "1990년생",
         "부산 출신",
@@ -106,10 +135,13 @@
     },
     {
       "name": "김용빈",
-      "image": "/images/singers/김용빈.jpg",
+      "image": "/images/singers/김용빈.webp",
       "program": "미스터트롯3",
       "rank": "진",
-      "songs": ["선아야", "감사"],
+      "songs": [
+        "선아야",
+        "감사"
+      ],
       "facts": [
         "1992년생",
         "대구 수성구 출신",
@@ -119,10 +151,13 @@
     },
     {
       "name": "손빈아",
-      "image": "/images/singers/손빈아.jpg",
+      "image": "/images/singers/손빈아.webp",
       "program": "미스터트롯3",
       "rank": "선",
-      "songs": ["그물", "가버린 사랑"],
+      "songs": [
+        "그물",
+        "가버린 사랑"
+      ],
       "facts": [
         "1992년생",
         "경남 하동 출신",
@@ -132,10 +167,13 @@
     },
     {
       "name": "천록담",
-      "image": "/images/singers/천록담.jpg",
+      "image": "/images/singers/천록담.webp",
       "program": "미스터트롯3",
       "rank": "미",
-      "songs": ["제3한강교", "다신"],
+      "songs": [
+        "제3한강교",
+        "다신"
+      ],
       "facts": [
         "1981년생",
         "제주도 출신",
@@ -145,10 +183,14 @@
     },
     {
       "name": "송가인",
-      "image": "/images/singers/송가인.jpg",
+      "image": "/images/singers/송가인.webp",
       "program": "미스트롯 시즌1",
       "rank": "진",
-      "songs": ["가인이어라", "트로트가 나는 좋아요", "내 마음의 사진"],
+      "songs": [
+        "가인이어라",
+        "트로트가 나는 좋아요",
+        "내 마음의 사진"
+      ],
       "facts": [
         "1986년생",
         "전남 진도 출신",
@@ -158,10 +200,14 @@
     },
     {
       "name": "정미애",
-      "image": "/images/singers/정미애.jpg",
+      "image": "/images/singers/정미애.webp",
       "program": "미스트롯 시즌1",
       "rank": "선",
-      "songs": ["그중에 그대를 만나", "고향바람", "님 찾아왔어요"],
+      "songs": [
+        "그중에 그대를 만나",
+        "고향바람",
+        "님 찾아왔어요"
+      ],
       "facts": [
         "1982년생",
         "대구 출신",
@@ -171,10 +217,14 @@
     },
     {
       "name": "홍자",
-      "image": "/images/singers/홍자.jpg",
+      "image": "/images/singers/홍자.webp",
       "program": "미스트롯 시즌1",
       "rank": "미",
-      "songs": ["사랑 참", "상사화", "비나리"],
+      "songs": [
+        "사랑 참",
+        "상사화",
+        "비나리"
+      ],
       "facts": [
         "1985년생",
         "울산 출신",
@@ -184,10 +234,14 @@
     },
     {
       "name": "양지은",
-      "image": "/images/singers/양지은.jpg",
+      "image": "/images/singers/양지은.webp",
       "program": "미스트롯2",
       "rank": "진",
-      "songs": ["그 강을 건너지마오", "빙빙빙", "사모곡"],
+      "songs": [
+        "그 강을 건너지마오",
+        "빙빙빙",
+        "사모곡"
+      ],
       "facts": [
         "1990년생",
         "제주도 출신",
@@ -197,10 +251,14 @@
     },
     {
       "name": "홍지윤",
-      "image": "/images/singers/홍지윤.jpg",
+      "image": "/images/singers/홍지윤.webp",
       "program": "미스트롯2",
       "rank": "선",
-      "songs": ["엄마 아리랑", "새벽차", "가보자GO"],
+      "songs": [
+        "엄마 아리랑",
+        "새벽차",
+        "가보자GO"
+      ],
       "facts": [
         "1995년생",
         "경기도 고양시 출신",
@@ -213,7 +271,11 @@
       "image": "/images/singers/김다현.jpg",
       "program": "미스트롯2",
       "rank": "미",
-      "songs": ["꽃처녀", "파이팅", "회룡포"],
+      "songs": [
+        "꽃처녀",
+        "파이팅",
+        "회룡포"
+      ],
       "facts": [
         "2009년생",
         "청학동 출신",
@@ -226,7 +288,11 @@
       "image": "/images/singers/정서주.jpg",
       "program": "미스트롯3",
       "rank": "진",
-      "songs": ["꽃들에게", "기다리는 건 아무것도 아니에요", "손 편지 한 장"],
+      "songs": [
+        "꽃들에게",
+        "기다리는 건 아무것도 아니에요",
+        "손 편지 한 장"
+      ],
       "facts": [
         "2008년생",
         "부산 수영구 출신",
@@ -236,10 +302,14 @@
     },
     {
       "name": "배아현",
-      "image": "/images/singers/배아현.jpg",
+      "image": "/images/singers/배아현.webp",
       "program": "미스트롯3",
       "rank": "선",
-      "songs": ["조약돌 사랑", "모란동백", "24시"],
+      "songs": [
+        "조약돌 사랑",
+        "모란동백",
+        "24시"
+      ],
       "facts": [
         "1996년생",
         "전라북도 완주 출신",
@@ -252,7 +322,10 @@
       "image": "/images/singers/오유진.jpg",
       "program": "미스트롯3",
       "rank": "미",
-      "songs": ["사랑꽃", "예쁘잖아"],
+      "songs": [
+        "사랑꽃",
+        "예쁘잖아"
+      ],
       "facts": [
         "2009년생",
         "경남 진주 출신",
@@ -262,10 +335,13 @@
     },
     {
       "name": "이소나",
-      "image": "/images/singers/이소나.jpg",
+      "image": "/images/singers/이소나.webp",
       "program": "미스트롯4",
       "rank": "진",
-      "songs": ["정", "사랑의 미로"],
+      "songs": [
+        "정",
+        "사랑의 미로"
+      ],
       "facts": [
         "1991년생",
         "서울 출신 (춘천 성장)",
@@ -275,10 +351,13 @@
     },
     {
       "name": "허찬미",
-      "image": "/images/singers/허찬미.jpg",
+      "image": "/images/singers/허찬미.webp",
       "program": "미스트롯4",
       "rank": "선",
-      "songs": ["니가 정말 좋아", "해운대 밤바다"],
+      "songs": [
+        "니가 정말 좋아",
+        "해운대 밤바다"
+      ],
       "facts": [
         "1992년생",
         "미스트롯4 선 (2위)",
@@ -288,10 +367,12 @@
     },
     {
       "name": "홍성윤",
-      "image": "/images/singers/홍성윤.jpg",
+      "image": "/images/singers/홍성윤.jpeg",
       "program": "미스트롯4",
       "rank": "미",
-      "songs": ["만개화"],
+      "songs": [
+        "만개화"
+      ],
       "facts": [
         "2002년생",
         "대전 출신",
@@ -304,7 +385,11 @@
       "image": "/images/singers/손태진.jpg",
       "program": "불타는 트롯맨",
       "rank": "1위",
-      "songs": ["단 한 사람", "깊은 밤을 날아서", "당신의 꽃"],
+      "songs": [
+        "단 한 사람",
+        "깊은 밤을 날아서",
+        "당신의 꽃"
+      ],
       "facts": [
         "1988년생",
         "서울 출신",
@@ -314,10 +399,13 @@
     },
     {
       "name": "신성",
-      "image": "/images/singers/신성.jpg",
+      "image": "/images/singers/신성.webp",
       "program": "불타는 트롯맨",
       "rank": "2위",
-      "songs": ["사랑의 금메달", "오뚜기 인생"],
+      "songs": [
+        "사랑의 금메달",
+        "오뚜기 인생"
+      ],
       "facts": [
         "1985년생",
         "충남 예산 출신",
@@ -327,10 +415,14 @@
     },
     {
       "name": "민수현",
-      "image": "/images/singers/민수현.jpg",
+      "image": "/images/singers/민수현.webp",
       "program": "불타는 트롯맨",
       "rank": "3위",
-      "songs": ["사랑의 방정식", "홍랑", "무심세월"],
+      "songs": [
+        "사랑의 방정식",
+        "홍랑",
+        "무심세월"
+      ],
       "facts": [
         "1994년생",
         "대전 출신",
@@ -340,10 +432,13 @@
     },
     {
       "name": "재하",
-      "image": "/images/singers/재하.jpg",
+      "image": "/images/singers/재하.webp",
       "program": "트롯 전국체전",
       "rank": "은메달",
-      "songs": ["삼바파티", "눈동자"],
+      "songs": [
+        "삼바파티",
+        "눈동자"
+      ],
       "facts": [
         "1993년생",
         "미국 시애틀 출신 (한국계 미국인)",
@@ -353,10 +448,14 @@
     },
     {
       "name": "전유진",
-      "image": "/images/singers/전유진.jpg",
+      "image": "/images/singers/전유진.webp",
       "program": "현역가왕1",
       "rank": "1위",
-      "songs": ["훨훨훨", "사랑...하시렵니까?", "가요 가요"],
+      "songs": [
+        "훨훨훨",
+        "사랑...하시렵니까?",
+        "가요 가요"
+      ],
       "facts": [
         "2006년생",
         "경북 포항 출신",
@@ -366,10 +465,14 @@
     },
     {
       "name": "마이진",
-      "image": "/images/singers/마이진.jpg",
+      "image": "/images/singers/마이진.webp",
       "program": "현역가왕1",
       "rank": "2위",
-      "songs": ["빈손", "옹이", "몽당연필"],
+      "songs": [
+        "빈손",
+        "옹이",
+        "몽당연필"
+      ],
       "facts": [
         "1986년생",
         "서울 출신",
@@ -379,10 +482,14 @@
     },
     {
       "name": "박서진",
-      "image": "/images/singers/박서진.jpg",
+      "image": "/images/singers/박서진.webp",
       "program": "현역가왕2",
       "rank": "1위",
-      "songs": ["세월 이길 장사 있나", "태클을 걸지마", "흥타령"],
+      "songs": [
+        "세월 이길 장사 있나",
+        "태클을 걸지마",
+        "흥타령"
+      ],
       "facts": [
         "1995년생",
         "경남 사천 출신",
@@ -392,10 +499,12 @@
     },
     {
       "name": "에녹",
-      "image": "/images/singers/에녹.jpg",
+      "image": "/images/singers/에녹.webp",
       "program": "현역가왕2",
       "rank": "3위",
-      "songs": ["대전역 부르스"],
+      "songs": [
+        "대전역 부르스"
+      ],
       "facts": [
         "1980년생",
         "부천 출신",
@@ -405,10 +514,13 @@
     },
     {
       "name": "차지연",
-      "image": "/images/singers/차지연.jpg",
+      "image": "/images/singers/차지연.webp",
       "program": "현역가왕3",
       "rank": "2위",
-      "songs": ["살다보면", "고독한 연인"],
+      "songs": [
+        "살다보면",
+        "고독한 연인"
+      ],
       "facts": [
         "1982년생",
         "대전 출신",
@@ -421,7 +533,10 @@
       "image": "/images/singers/이수연.jpg",
       "program": "현역가왕3",
       "rank": "3위",
-      "songs": ["놀아보세", "할매국시"],
+      "songs": [
+        "놀아보세",
+        "할매국시"
+      ],
       "facts": [
         "2014년생",
         "경북 경주 출신",
@@ -431,10 +546,14 @@
     },
     {
       "name": "나훈아",
-      "image": "/images/singers/나훈아.jpg",
+      "image": "/images/singers/나훈아.webp",
       "program": "",
       "rank": "트로트 황제",
-      "songs": ["테스형", "홍시", "고향역"],
+      "songs": [
+        "테스형",
+        "홍시",
+        "고향역"
+      ],
       "facts": [
         "1947년생",
         "부산 출신",
@@ -445,31 +564,130 @@
   ],
   "audio_quizzes": [
     {
-      "youtube_id": "0dBO3aX6x3Q",
+      "youtube_id": "LKQ-18LoFQk",
       "start": 60,
-      "end": 65,
+      "end": 70,
       "answer_type": "song_title",
       "answer": "사랑은 늘 도망가",
       "singer": "임영웅",
-      "options": ["사랑은 늘 도망가", "찐이야", "진또배기", "남자는 말합니다"]
+      "options": [
+        "사랑은 늘 도망가",
+        "찐이야",
+        "진또배기",
+        "남자는 말합니다"
+      ]
     },
     {
-      "youtube_id": "GByqMYjJzoo",
-      "start": 30,
-      "end": 35,
+      "youtube_id": "N-fSc8CxQDk",
+      "start": 17,
+      "end": 27,
       "answer_type": "song_title",
       "answer": "찐이야",
       "singer": "영탁",
-      "options": ["찐이야", "막걸리 한잔", "사랑은 늘 도망가", "편의점"]
+      "options": [
+        "찐이야",
+        "막걸리 한잔",
+        "사랑은 늘 도망가",
+        "편의점"
+      ]
     },
     {
-      "youtube_id": "qXFTl6p4B_g",
-      "start": 40,
-      "end": 45,
+      "youtube_id": "PcfYFnQSEQQ",
+      "start": 30,
+      "end": 40,
       "answer_type": "song_title",
       "answer": "진또배기",
       "singer": "이찬원",
-      "options": ["진또배기", "여백", "테스형", "감사"]
+      "options": [
+        "진또배기",
+        "여백",
+        "테스형",
+        "감사"
+      ]
+    },
+    {
+      "youtube_id": "qylYHu-kmRE",
+      "start": 15,
+      "end": 25,
+      "answer_type": "song_title",
+      "answer": "가인이어라",
+      "singer": "송가인",
+      "options": [
+        "가인이어라",
+        "트로트가 나는 좋아요",
+        "엄마 아리랑",
+        "그 강을 건너지마오"
+      ]
+    },
+    {
+      "youtube_id": "thzlLYCXtb8",
+      "start": 20,
+      "end": 30,
+      "answer_type": "song_title",
+      "answer": "그 강을 건너지마오",
+      "singer": "양지은",
+      "options": [
+        "그 강을 건너지마오",
+        "가인이어라",
+        "사랑 참",
+        "꽃처녀"
+      ]
+    },
+    {
+      "youtube_id": "MRrXRlVd0P0",
+      "start": 27,
+      "end": 37,
+      "answer_type": "song_title",
+      "answer": "테스형",
+      "singer": "나훈아",
+      "options": [
+        "테스형",
+        "홍시",
+        "고향역",
+        "사랑은 늘 도망가"
+      ]
+    },
+    {
+      "youtube_id": "_yv99sys0oc",
+      "start": 20,
+      "end": 30,
+      "answer_type": "song_title",
+      "answer": "그대 내 친구여",
+      "singer": "안성훈",
+      "options": [
+        "그대 내 친구여",
+        "은인",
+        "못난 놈",
+        "선아야"
+      ]
+    },
+    {
+      "youtube_id": "tEdhlCzaJJ0",
+      "start": 33,
+      "end": 43,
+      "answer_type": "song_title",
+      "answer": "훨훨훨",
+      "singer": "전유진",
+      "options": [
+        "훨훨훨",
+        "꽃들에게",
+        "빙빙빙",
+        "사랑꽃"
+      ]
+    },
+    {
+      "youtube_id": "C-hcW3IJdog",
+      "start": 0,
+      "end": 10,
+      "answer_type": "song_title",
+      "answer": "엄마 아리랑",
+      "singer": "홍지윤",
+      "options": [
+        "엄마 아리랑",
+        "새벽차",
+        "가인이어라",
+        "그 강을 건너지마오"
+      ]
     }
   ]
 }
