@@ -750,7 +750,7 @@
   {
     "type": "song_title",
     "format": "multiple_choice",
-    "question": "임영웅의 대표곡은 무엇일까요?",
+    "question": "임영웅이(가) 부른 대표곡은?",
     "options": [
       "감사",
       "어느 60대 노부부의 이야기",
@@ -763,7 +763,7 @@
   {
     "type": "song_title",
     "format": "multiple_choice",
-    "question": "영탁의 대표곡은 무엇일까요?",
+    "question": "영탁이(가) 부른 대표곡은?",
     "options": [
       "트로트가 나는 좋아요",
       "파이팅",
@@ -776,7 +776,7 @@
   {
     "type": "song_title",
     "format": "multiple_choice",
-    "question": "이찬원의 대표곡은 무엇일까요?",
+    "question": "이찬원이(가) 부른 대표곡은?",
     "options": [
       "진또배기",
       "그물",
@@ -789,7 +789,7 @@
   {
     "type": "song_title",
     "format": "multiple_choice",
-    "question": "정동원의 대표곡은 무엇일까요?",
+    "question": "정동원이(가) 부른 대표곡은?",
     "options": [
       "여백",
       "조약돌 사랑",
@@ -802,7 +802,7 @@
   {
     "type": "song_title",
     "format": "multiple_choice",
-    "question": "장민호의 대표곡은 무엇일까요?",
+    "question": "장민호이(가) 부른 대표곡은?",
     "options": [
       "그대 내 친구여",
       "남자는 말합니다",
@@ -815,7 +815,7 @@
   {
     "type": "song_title",
     "format": "multiple_choice",
-    "question": "안성훈의 대표곡은 무엇일까요?",
+    "question": "안성훈이(가) 부른 대표곡은?",
     "options": [
       "세월 이길 장사 있나",
       "엄마 아리랑",
@@ -828,7 +828,7 @@
   {
     "type": "song_title",
     "format": "multiple_choice",
-    "question": "박지현의 대표곡은 무엇일까요?",
+    "question": "박지현이(가) 부른 대표곡은?",
     "options": [
       "못난 놈",
       "새벽차",
@@ -841,7 +841,7 @@
   {
     "type": "song_title",
     "format": "multiple_choice",
-    "question": "진해성의 대표곡은 무엇일까요?",
+    "question": "진해성이(가) 부른 대표곡은?",
     "options": [
       "모정의 세월",
       "왜 이래",
@@ -854,7 +854,7 @@
   {
     "type": "song_title",
     "format": "multiple_choice",
-    "question": "김용빈의 대표곡은 무엇일까요?",
+    "question": "김용빈이(가) 부른 대표곡은?",
     "options": [
       "손 편지 한 장",
       "진또배기",
@@ -867,7 +867,7 @@
   {
     "type": "song_title",
     "format": "multiple_choice",
-    "question": "손빈아의 대표곡은 무엇일까요?",
+    "question": "손빈아이(가) 부른 대표곡은?",
     "options": [
       "그물",
       "감사",
@@ -880,7 +880,7 @@
   {
     "type": "song_title",
     "format": "multiple_choice",
-    "question": "천록담의 대표곡은 무엇일까요?",
+    "question": "천록담이(가) 부른 대표곡은?",
     "options": [
       "새벽차",
       "은인",
@@ -893,7 +893,7 @@
   {
     "type": "song_title",
     "format": "multiple_choice",
-    "question": "송가인의 대표곡은 무엇일까요?",
+    "question": "송가인이(가) 부른 대표곡은?",
     "options": [
       "가인이어라",
       "편의점",
@@ -906,7 +906,7 @@
   {
     "type": "song_title",
     "format": "multiple_choice",
-    "question": "정미애의 대표곡은 무엇일까요?",
+    "question": "정미애이(가) 부른 대표곡은?",
     "options": [
       "그중에 그대를 만나",
       "회룡포",
@@ -919,7 +919,7 @@
   {
     "type": "song_title",
     "format": "multiple_choice",
-    "question": "홍자의 대표곡은 무엇일까요?",
+    "question": "홍자이(가) 부른 대표곡은?",
     "options": [
       "살다보면",
       "참 좋은 사람",
@@ -932,7 +932,7 @@
   {
     "type": "song_title",
     "format": "multiple_choice",
-    "question": "양지은의 대표곡은 무엇일까요?",
+    "question": "양지은이(가) 부른 대표곡은?",
     "options": [
       "그 강을 건너지마오",
       "해운대 밤바다",
@@ -945,7 +945,7 @@
   {
     "type": "song_title",
     "format": "multiple_choice",
-    "question": "홍지윤의 대표곡은 무엇일까요?",
+    "question": "홍지윤이(가) 부른 대표곡은?",
     "options": [
       "엄마 아리랑",
       "무심세월",
@@ -958,7 +958,7 @@
   {
     "type": "song_title",
     "format": "multiple_choice",
-    "question": "김다현의 대표곡은 무엇일까요?",
+    "question": "김다현이(가) 부른 대표곡은?",
     "options": [
       "훨훨훨",
       "할매국시",
@@ -971,7 +971,7 @@
   {
     "type": "song_title",
     "format": "multiple_choice",
-    "question": "정서주의 대표곡은 무엇일까요?",
+    "question": "정서주이(가) 부른 대표곡은?",
     "options": [
       "꽃들에게",
       "예쁘잖아",
@@ -984,7 +984,7 @@
   {
     "type": "song_title",
     "format": "multiple_choice",
-    "question": "배아현의 대표곡은 무엇일까요?",
+    "question": "배아현이(가) 부른 대표곡은?",
     "options": [
       "놀아보세",
       "트로트가 나는 좋아요",
@@ -997,7 +997,7 @@
   {
     "type": "song_title",
     "format": "multiple_choice",
-    "question": "오유진의 대표곡은 무엇일까요?",
+    "question": "오유진이(가) 부른 대표곡은?",
     "options": [
       "새벽차",
       "사랑의 방정식",
@@ -1010,7 +1010,7 @@
   {
     "type": "song_title",
     "format": "multiple_choice",
-    "question": "이소나의 대표곡은 무엇일까요?",
+    "question": "이소나이(가) 부른 대표곡은?",
     "options": [
       "꽃처녀",
       "파이팅",
@@ -1023,7 +1023,7 @@
   {
     "type": "song_title",
     "format": "multiple_choice",
-    "question": "허찬미의 대표곡은 무엇일까요?",
+    "question": "허찬미이(가) 부른 대표곡은?",
     "options": [
       "24시",
       "찐이야",
@@ -1036,7 +1036,7 @@
   {
     "type": "song_title",
     "format": "multiple_choice",
-    "question": "홍성윤의 대표곡은 무엇일까요?",
+    "question": "홍성윤이(가) 부른 대표곡은?",
     "options": [
       "정이 뭐길래",
       "내 마음의 사진",
@@ -1049,7 +1049,7 @@
   {
     "type": "song_title",
     "format": "multiple_choice",
-    "question": "손태진의 대표곡은 무엇일까요?",
+    "question": "손태진이(가) 부른 대표곡은?",
     "options": [
       "단 한 사람",
       "오뚜기 인생",
@@ -1062,7 +1062,7 @@
   {
     "type": "song_title",
     "format": "multiple_choice",
-    "question": "신성의 대표곡은 무엇일까요?",
+    "question": "신성이(가) 부른 대표곡은?",
     "options": [
       "사랑은 늘 도망가",
       "사랑의 금메달",
@@ -1075,7 +1075,7 @@
   {
     "type": "song_title",
     "format": "multiple_choice",
-    "question": "민수현의 대표곡은 무엇일까요?",
+    "question": "민수현이(가) 부른 대표곡은?",
     "options": [
       "다신",
       "가보자GO",
@@ -1088,7 +1088,7 @@
   {
     "type": "song_title",
     "format": "multiple_choice",
-    "question": "재하의 대표곡은 무엇일까요?",
+    "question": "재하이(가) 부른 대표곡은?",
     "options": [
       "가라지",
       "삼바파티",
@@ -1101,7 +1101,7 @@
   {
     "type": "song_title",
     "format": "multiple_choice",
-    "question": "전유진의 대표곡은 무엇일까요?",
+    "question": "전유진이(가) 부른 대표곡은?",
     "options": [
       "대전역 부르스",
       "빈손",
@@ -1114,7 +1114,7 @@
   {
     "type": "song_title",
     "format": "multiple_choice",
-    "question": "마이진의 대표곡은 무엇일까요?",
+    "question": "마이진이(가) 부른 대표곡은?",
     "options": [
       "찐이야",
       "꽃처녀",
@@ -1127,7 +1127,7 @@
   {
     "type": "song_title",
     "format": "multiple_choice",
-    "question": "박서진의 대표곡은 무엇일까요?",
+    "question": "박서진이(가) 부른 대표곡은?",
     "options": [
       "가인이어라",
       "정이 뭐길래",
@@ -1140,7 +1140,7 @@
   {
     "type": "song_title",
     "format": "multiple_choice",
-    "question": "에녹의 대표곡은 무엇일까요?",
+    "question": "에녹이(가) 부른 대표곡은?",
     "options": [
       "몽당연필",
       "대전역 부르스",
@@ -1153,7 +1153,7 @@
   {
     "type": "song_title",
     "format": "multiple_choice",
-    "question": "차지연의 대표곡은 무엇일까요?",
+    "question": "차지연이(가) 부른 대표곡은?",
     "options": [
       "살다보면",
       "엄마 아리랑",
@@ -1166,7 +1166,7 @@
   {
     "type": "song_title",
     "format": "multiple_choice",
-    "question": "이수연의 대표곡은 무엇일까요?",
+    "question": "이수연이(가) 부른 대표곡은?",
     "options": [
       "놀아보세",
       "다신",
@@ -1179,7 +1179,7 @@
   {
     "type": "song_title",
     "format": "multiple_choice",
-    "question": "나훈아의 대표곡은 무엇일까요?",
+    "question": "나훈아이(가) 부른 대표곡은?",
     "options": [
       "테스형",
       "엄마 아리랑",
@@ -1192,7 +1192,7 @@
   {
     "type": "song_title",
     "format": "multiple_choice",
-    "question": "다음 중 임영웅의 노래는?",
+    "question": "임영웅이(가) 부른 노래는?",
     "options": [
       "사랑의 금메달",
       "빈손",
@@ -1205,7 +1205,7 @@
   {
     "type": "song_title",
     "format": "multiple_choice",
-    "question": "다음 중 영탁의 노래는?",
+    "question": "영탁이(가) 부른 노래는?",
     "options": [
       "조약돌 사랑",
       "할매국시",
@@ -1218,7 +1218,7 @@
   {
     "type": "song_title",
     "format": "multiple_choice",
-    "question": "다음 중 이찬원의 노래는?",
+    "question": "이찬원이(가) 부른 노래는?",
     "options": [
       "왜 이래",
       "편의점",
@@ -1231,7 +1231,7 @@
   {
     "type": "song_title",
     "format": "multiple_choice",
-    "question": "다음 중 정동원의 노래는?",
+    "question": "정동원이(가) 부른 노래는?",
     "options": [
       "가버린 사랑",
       "고향바람",
@@ -1244,7 +1244,7 @@
   {
     "type": "song_title",
     "format": "multiple_choice",
-    "question": "다음 중 장민호의 노래는?",
+    "question": "장민호이(가) 부른 노래는?",
     "options": [
       "정이 뭐길래",
       "단 한 사람",
@@ -1257,7 +1257,7 @@
   {
     "type": "song_title",
     "format": "multiple_choice",
-    "question": "다음 중 안성훈의 노래는?",
+    "question": "안성훈이(가) 부른 노래는?",
     "options": [
       "은인",
       "떠날 수 없는 당신",
@@ -1270,7 +1270,7 @@
   {
     "type": "song_title",
     "format": "multiple_choice",
-    "question": "다음 중 박지현의 노래는?",
+    "question": "박지현이(가) 부른 노래는?",
     "options": [
       "남자는 말합니다",
       "니가 정말 좋아",
@@ -1283,7 +1283,7 @@
   {
     "type": "song_title",
     "format": "multiple_choice",
-    "question": "다음 중 진해성의 노래는?",
+    "question": "진해성이(가) 부른 노래는?",
     "options": [
       "고향역",
       "가라지",
@@ -1296,7 +1296,7 @@
   {
     "type": "song_title",
     "format": "multiple_choice",
-    "question": "다음 중 김용빈의 노래는?",
+    "question": "김용빈이(가) 부른 노래는?",
     "options": [
       "감사",
       "편의점",
@@ -1309,7 +1309,7 @@
   {
     "type": "song_title",
     "format": "multiple_choice",
-    "question": "다음 중 손빈아의 노래는?",
+    "question": "손빈아이(가) 부른 노래는?",
     "options": [
       "여백",
       "모정의 세월",
@@ -1322,7 +1322,7 @@
   {
     "type": "song_title",
     "format": "multiple_choice",
-    "question": "다음 중 천록담의 노래는?",
+    "question": "천록담이(가) 부른 노래는?",
     "options": [
       "다신",
       "가보자GO",
@@ -1335,7 +1335,7 @@
   {
     "type": "song_title",
     "format": "multiple_choice",
-    "question": "다음 중 송가인의 노래는?",
+    "question": "송가인이(가) 부른 노래는?",
     "options": [
       "트로트가 나는 좋아요",
       "편의점",
@@ -1348,7 +1348,7 @@
   {
     "type": "song_title",
     "format": "multiple_choice",
-    "question": "다음 중 정미애의 노래는?",
+    "question": "정미애이(가) 부른 노래는?",
     "options": [
       "그대 내 친구여",
       "다신",
@@ -1361,7 +1361,7 @@
   {
     "type": "song_title",
     "format": "multiple_choice",
-    "question": "다음 중 홍자의 노래는?",
+    "question": "홍자이(가) 부른 노래는?",
     "options": [
       "그물",
       "비나리",
@@ -1374,7 +1374,7 @@
   {
     "type": "song_title",
     "format": "multiple_choice",
-    "question": "다음 중 양지은의 노래는?",
+    "question": "양지은이(가) 부른 노래는?",
     "options": [
       "빙빙빙",
       "옹이",
@@ -1387,7 +1387,7 @@
   {
     "type": "song_title",
     "format": "multiple_choice",
-    "question": "다음 중 홍지윤의 노래는?",
+    "question": "홍지윤이(가) 부른 노래는?",
     "options": [
       "참 좋은 사람",
       "편의점",
@@ -1400,7 +1400,7 @@
   {
     "type": "song_title",
     "format": "multiple_choice",
-    "question": "다음 중 김다현의 노래는?",
+    "question": "김다현이(가) 부른 노래는?",
     "options": [
       "삼바파티",
       "파이팅",
@@ -1413,7 +1413,7 @@
   {
     "type": "song_title",
     "format": "multiple_choice",
-    "question": "다음 중 정서주의 노래는?",
+    "question": "정서주이(가) 부른 노래는?",
     "options": [
       "살다보면",
       "다신",
@@ -1426,7 +1426,7 @@
   {
     "type": "song_title",
     "format": "multiple_choice",
-    "question": "다음 중 배아현의 노래는?",
+    "question": "배아현이(가) 부른 노래는?",
     "options": [
       "그 강을 건너지마오",
       "사랑꽃",
@@ -1439,7 +1439,7 @@
   {
     "type": "song_title",
     "format": "multiple_choice",
-    "question": "다음 중 오유진의 노래는?",
+    "question": "오유진이(가) 부른 노래는?",
     "options": [
       "예쁘잖아",
       "꽃처녀",
@@ -1452,7 +1452,7 @@
   {
     "type": "song_title",
     "format": "multiple_choice",
-    "question": "다음 중 이소나의 노래는?",
+    "question": "이소나이(가) 부른 노래는?",
     "options": [
       "제3한강교",
       "할매국시",
@@ -1465,7 +1465,7 @@
   {
     "type": "song_title",
     "format": "multiple_choice",
-    "question": "다음 중 허찬미의 노래는?",
+    "question": "허찬미이(가) 부른 노래는?",
     "options": [
       "무심세월",
       "못난 놈",
@@ -1478,7 +1478,7 @@
   {
     "type": "song_title",
     "format": "multiple_choice",
-    "question": "다음 중 손태진의 노래는?",
+    "question": "손태진이(가) 부른 노래는?",
     "options": [
       "깊은 밤을 날아서",
       "편의점",
@@ -1491,7 +1491,7 @@
   {
     "type": "song_title",
     "format": "multiple_choice",
-    "question": "다음 중 신성의 노래는?",
+    "question": "신성이(가) 부른 노래는?",
     "options": [
       "떠날 수 없는 당신",
       "눈동자",
@@ -1504,7 +1504,7 @@
   {
     "type": "song_title",
     "format": "multiple_choice",
-    "question": "다음 중 민수현의 노래는?",
+    "question": "민수현이(가) 부른 노래는?",
     "options": [
       "진또배기",
       "훨훨훨",
@@ -1517,7 +1517,7 @@
   {
     "type": "song_title",
     "format": "multiple_choice",
-    "question": "다음 중 재하의 노래는?",
+    "question": "재하이(가) 부른 노래는?",
     "options": [
       "어느 60대 노부부의 이야기",
       "깊은 밤을 날아서",
@@ -1530,7 +1530,7 @@
   {
     "type": "song_title",
     "format": "multiple_choice",
-    "question": "다음 중 전유진의 노래는?",
+    "question": "전유진이(가) 부른 노래는?",
     "options": [
       "사랑...하시렵니까?",
       "24시",
@@ -1543,7 +1543,7 @@
   {
     "type": "song_title",
     "format": "multiple_choice",
-    "question": "다음 중 마이진의 노래는?",
+    "question": "마이진이(가) 부른 노래는?",
     "options": [
       "정이 뭐길래",
       "새벽차",
@@ -1556,7 +1556,7 @@
   {
     "type": "song_title",
     "format": "multiple_choice",
-    "question": "다음 중 박서진의 노래는?",
+    "question": "박서진이(가) 부른 노래는?",
     "options": [
       "훨훨훨",
       "비나리",
@@ -1569,7 +1569,7 @@
   {
     "type": "song_title",
     "format": "multiple_choice",
-    "question": "다음 중 차지연의 노래는?",
+    "question": "차지연이(가) 부른 노래는?",
     "options": [
       "고독한 연인",
       "사랑은 늘 도망가",
@@ -1582,7 +1582,7 @@
   {
     "type": "song_title",
     "format": "multiple_choice",
-    "question": "다음 중 이수연의 노래는?",
+    "question": "이수연이(가) 부른 노래는?",
     "options": [
       "사랑은 늘 도망가",
       "가요 가요",
@@ -1595,7 +1595,7 @@
   {
     "type": "song_title",
     "format": "multiple_choice",
-    "question": "다음 중 나훈아의 노래는?",
+    "question": "나훈아이(가) 부른 노래는?",
     "options": [
       "사랑꽃",
       "홍시",
