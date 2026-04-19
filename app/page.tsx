@@ -9,9 +9,63 @@ import allQuestions from "@/data/quiz-questions.json";
 
 const QUIZ_COUNT = 10;
 
+type RawQuestion = (typeof allQuestions)[number];
+
+function getGroup(q: RawQuestion): string {
+  if (q.type === "song_listen") return "audio";
+  if (q.format === "initial_consonant" && q.type === "singer_guess")
+    return "singer_initial";
+  if (q.format === "initial_consonant" && q.type === "song_title")
+    return "song_initial";
+  if (q.format === "ox") return "ox";
+  if (q.type === "singer_guess" && q.question.includes("힌트"))
+    return "singer_hint";
+  if (q.type === "singer_guess" && q.question.includes("부른 가수"))
+    return "song_to_singer";
+  if (
+    q.type === "singer_guess" &&
+    (q.question.includes("별명") || q.question.includes("해당하는"))
+  )
+    return "nickname";
+  if (q.type === "episode_quiz" && q.format === "multiple_choice")
+    return "program_quiz";
+  if (q.type === "song_title") return "song_title";
+  return "other";
+}
+
+function shuffle<T>(arr: T[]): T[] {
+  return [...arr].sort(() => Math.random() - 0.5);
+}
+
 function pickRandomQuestions(count: number): QuizQuestionType[] {
-  const shuffled = [...allQuestions].sort(() => Math.random() - 0.5);
-  return shuffled.slice(0, count) as QuizQuestionType[];
+  // 그룹별로 문제 분류
+  const grouped: Record<string, RawQuestion[]> = {};
+  for (const q of allQuestions) {
+    const group = getGroup(q);
+    if (!grouped[group]) grouped[group] = [];
+    grouped[group].push(q);
+  }
+
+  // 각 그룹 내부를 셔플
+  const groupKeys = shuffle(Object.keys(grouped));
+  for (const key of groupKeys) {
+    grouped[key] = shuffle(grouped[key]);
+  }
+
+  // 라운드 로빈으로 각 그룹에서 1개씩 뽑기
+  const picked: RawQuestion[] = [];
+  let round = 0;
+  while (picked.length < count) {
+    for (const key of groupKeys) {
+      if (picked.length >= count) break;
+      if (round < grouped[key].length) {
+        picked.push(grouped[key][round]);
+      }
+    }
+    round++;
+  }
+
+  return shuffle(picked) as QuizQuestionType[];
 }
 
 type GameState = "start" | "playing" | "result";
