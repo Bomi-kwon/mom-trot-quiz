@@ -9,19 +9,13 @@ interface QuizResultProps {
   onRestart: () => void;
 }
 
-function getGrade(score: number): QuizGrade {
-  switch (score) {
-    case 5:
-      return { title: "트로트 대통령", emoji: "🏆" };
-    case 4:
-      return { title: "트로트 장관", emoji: "🎤" };
-    case 3:
-      return { title: "트로트 팬", emoji: "🎵" };
-    case 2:
-      return { title: "트로트 새싹", emoji: "🌱" };
-    default:
-      return { title: "트로트 입문자", emoji: "😅" };
-  }
+function getGrade(score: number, total: number): QuizGrade {
+  const ratio = score / total;
+  if (ratio >= 0.9) return { title: "트로트 대통령", emoji: "🏆" };
+  if (ratio >= 0.7) return { title: "트로트 장관", emoji: "🎤" };
+  if (ratio >= 0.5) return { title: "트로트 팬", emoji: "🎵" };
+  if (ratio >= 0.3) return { title: "트로트 새싹", emoji: "🌱" };
+  return { title: "트로트 입문자", emoji: "😅" };
 }
 
 export default function QuizResult({
@@ -30,7 +24,7 @@ export default function QuizResult({
   onRestart,
 }: QuizResultProps) {
   const [copied, setCopied] = useState(false);
-  const grade = getGrade(score);
+  const grade = getGrade(score, total);
 
   const shareText = `🎤 트로트 퀴즈왕 결과 🎤
 오늘의 점수: ${score}/${total}
@@ -69,16 +63,14 @@ export default function QuizResult({
         <span className="text-pink-600 font-bold">{score}개</span> 정답!
       </p>
 
-      {/* Score stars */}
-      <div className="flex gap-2 mb-8">
-        {Array.from({ length: total }).map((_, i) => (
+      {/* Score bar */}
+      <div className="w-full max-w-xs mb-8">
+        <div className="h-4 bg-gray-200 rounded-full overflow-hidden">
           <div
-            key={i}
-            className={`text-3xl ${i < score ? "opacity-100" : "opacity-30"}`}
-          >
-            ⭐
-          </div>
-        ))}
+            className="h-full bg-pink-500 rounded-full transition-all duration-500"
+            style={{ width: `${(score / total) * 100}%` }}
+          />
+        </div>
       </div>
 
       {/* Buttons */}

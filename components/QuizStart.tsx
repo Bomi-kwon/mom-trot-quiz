@@ -11,7 +11,7 @@ export default function QuizStart({ onStart, loading }: QuizStartProps) {
       <div className="text-6xl mb-4">🎤</div>
       <h1 className="text-4xl font-bold text-pink-600 mb-3">트로트 퀴즈왕</h1>
       <p className="text-lg text-gray-600 mb-8 leading-relaxed">
-        오늘의 트로트 퀴즈 5문제에
+        트로트 퀴즈 10문제에
         <br />
         도전하세요!
       </p>

@@ -1,0 +1,4495 @@
+[
+  {
+    "type": "singer_guess",
+    "format": "multiple_choice",
+    "question": "다음 힌트의 가수는 누구일까요?\n1. 1991년생\n2. 경남 포항 출신\n3. 2020년 미스터트롯 시즌1 우승",
+    "options": [
+      "장민호",
+      "임영웅",
+      "나훈아",
+      "허찬미"
+    ],
+    "answer": "임영웅",
+    "explanation": "정답은 임영웅입니다! 미스터트롯 시즌1 진."
+  },
+  {
+    "type": "singer_guess",
+    "format": "multiple_choice",
+    "question": "다음 힌트의 가수는 누구일까요?\n1. 1987년생\n2. 경북 영주 출신\n3. 미스터트롯 시즌1 선 (2위)",
+    "options": [
+      "장민호",
+      "정미애",
+      "안성훈",
+      "영탁"
+    ],
+    "answer": "영탁",
+    "explanation": "정답은 영탁입니다! 미스터트롯 시즌1 선."
+  },
+  {
+    "type": "singer_guess",
+    "format": "multiple_choice",
+    "question": "다음 힌트의 가수는 누구일까요?\n1. 1997년생\n2. 서울 출신\n3. 미스터트롯 시즌1 미 (3위)",
+    "options": [
+      "정미애",
+      "양지은",
+      "정동원",
+      "이찬원"
+    ],
+    "answer": "이찬원",
+    "explanation": "정답은 이찬원입니다! 미스터트롯 시즌1 미."
+  },
+  {
+    "type": "singer_guess",
+    "format": "multiple_choice",
+    "question": "다음 힌트의 가수는 누구일까요?\n1. 2007년생\n2. 전남 목포 출신\n3. 미스터트롯 시즌1 수 (4위)",
+    "options": [
+      "나훈아",
+      "정동원",
+      "임영웅",
+      "허찬미"
+    ],
+    "answer": "정동원",
+    "explanation": "정답은 정동원입니다! 미스터트롯 시즌1 수."
+  },
+  {
+    "type": "singer_guess",
+    "format": "multiple_choice",
+    "question": "다음 힌트의 가수는 누구일까요?\n1. 1977년생\n2. 경남 사천 출신\n3. 미스터트롯 시즌1 우 (5위)",
+    "options": [
+      "장민호",
+      "손빈아",
+      "허찬미",
+      "오유진"
+    ],
+    "answer": "장민호",
+    "explanation": "정답은 장민호입니다! 미스터트롯 시즌1 우."
+  },
+  {
+    "type": "singer_guess",
+    "format": "multiple_choice",
+    "question": "다음 힌트의 가수는 누구일까요?\n1. 1989년생\n2. 경기도 시흥 출신\n3. 미스터트롯2 진 (1위)",
+    "options": [
+      "양지은",
+      "홍지윤",
+      "나훈아",
+      "안성훈"
+    ],
+    "answer": "안성훈",
+    "explanation": "정답은 안성훈입니다! 미스터트롯2 진."
+  },
+  {
+    "type": "singer_guess",
+    "format": "multiple_choice",
+    "question": "다음 힌트의 가수는 누구일까요?\n1. 1995년생\n2. 전남 목포 출신\n3. 미스터트롯2 선 (2위)",
+    "options": [
+      "이소나",
+      "박지현",
+      "김다현",
+      "민수현"
+    ],
+    "answer": "박지현",
+    "explanation": "정답은 박지현입니다! 미스터트롯2 선."
+  },
+  {
+    "type": "singer_guess",
+    "format": "multiple_choice",
+    "question": "다음 힌트의 가수는 누구일까요?\n1. 1990년생\n2. 부산 출신\n3. 미스터트롯2 미 (3위)",
+    "options": [
+      "장민호",
+      "진해성",
+      "박지현",
+      "신성"
+    ],
+    "answer": "진해성",
+    "explanation": "정답은 진해성입니다! 미스터트롯2 미."
+  },
+  {
+    "type": "singer_guess",
+    "format": "multiple_choice",
+    "question": "다음 힌트의 가수는 누구일까요?\n1. 1992년생\n2. 대구 수성구 출신\n3. 미스터트롯3 진 (1위)",
+    "options": [
+      "김용빈",
+      "김다현",
+      "에녹",
+      "영탁"
+    ],
+    "answer": "김용빈",
+    "explanation": "정답은 김용빈입니다! 미스터트롯3 진."
+  },
+  {
+    "type": "singer_guess",
+    "format": "multiple_choice",
+    "question": "다음 힌트의 가수는 누구일까요?\n1. 1992년생\n2. 경남 하동 출신\n3. 미스터트롯3 선 (2위)",
+    "options": [
+      "손빈아",
+      "임영웅",
+      "양지은",
+      "안성훈"
+    ],
+    "answer": "손빈아",
+    "explanation": "정답은 손빈아입니다! 미스터트롯3 선."
+  },
+  {
+    "type": "singer_guess",
+    "format": "multiple_choice",
+    "question": "다음 힌트의 가수는 누구일까요?\n1. 1981년생\n2. 제주도 출신\n3. 미스터트롯3 미 (3위)",
+    "options": [
+      "에녹",
+      "허찬미",
+      "박지현",
+      "천록담"
+    ],
+    "answer": "천록담",
+    "explanation": "정답은 천록담입니다! 미스터트롯3 미."
+  },
+  {
+    "type": "singer_guess",
+    "format": "multiple_choice",
+    "question": "다음 힌트의 가수는 누구일까요?\n1. 1986년생\n2. 전남 진도 출신\n3. 미스트롯 시즌1 진 (1위)",
+    "options": [
+      "민수현",
+      "정동원",
+      "김용빈",
+      "송가인"
+    ],
+    "answer": "송가인",
+    "explanation": "정답은 송가인입니다! 미스트롯 시즌1 진."
+  },
+  {
+    "type": "singer_guess",
+    "format": "multiple_choice",
+    "question": "다음 힌트의 가수는 누구일까요?\n1. 1982년생\n2. 대구 출신\n3. 미스트롯 시즌1 선 (2위)",
+    "options": [
+      "정동원",
+      "손태진",
+      "정미애",
+      "차지연"
+    ],
+    "answer": "정미애",
+    "explanation": "정답은 정미애입니다! 미스트롯 시즌1 선."
+  },
+  {
+    "type": "singer_guess",
+    "format": "multiple_choice",
+    "question": "다음 힌트의 가수는 누구일까요?\n1. 1985년생\n2. 울산 출신\n3. 미스트롯 시즌1 미 (3위)",
+    "options": [
+      "김다현",
+      "홍자",
+      "진해성",
+      "이찬원"
+    ],
+    "answer": "홍자",
+    "explanation": "정답은 홍자입니다! 미스트롯 시즌1 미."
+  },
+  {
+    "type": "singer_guess",
+    "format": "multiple_choice",
+    "question": "다음 힌트의 가수는 누구일까요?\n1. 1990년생\n2. 제주도 출신\n3. 미스트롯2 진 (1위)",
+    "options": [
+      "양지은",
+      "이수연",
+      "손빈아",
+      "손태진"
+    ],
+    "answer": "양지은",
+    "explanation": "정답은 양지은입니다! 미스트롯2 진."
+  },
+  {
+    "type": "singer_guess",
+    "format": "multiple_choice",
+    "question": "다음 힌트의 가수는 누구일까요?\n1. 1995년생\n2. 경기도 고양시 출신\n3. 미스트롯2 선 (2위)",
+    "options": [
+      "홍자",
+      "에녹",
+      "홍지윤",
+      "진해성"
+    ],
+    "answer": "홍지윤",
+    "explanation": "정답은 홍지윤입니다! 미스트롯2 선."
+  },
+  {
+    "type": "singer_guess",
+    "format": "multiple_choice",
+    "question": "다음 힌트의 가수는 누구일까요?\n1. 2009년생\n2. 청학동 출신\n3. 미스트롯2 미 (3위)",
+    "options": [
+      "민수현",
+      "안성훈",
+      "전유진",
+      "김다현"
+    ],
+    "answer": "김다현",
+    "explanation": "정답은 김다현입니다! 미스트롯2 미."
+  },
+  {
+    "type": "singer_guess",
+    "format": "multiple_choice",
+    "question": "다음 힌트의 가수는 누구일까요?\n1. 2008년생\n2. 부산 수영구 출신\n3. 미스트롯3 진 (1위)",
+    "options": [
+      "허찬미",
+      "임영웅",
+      "오유진",
+      "정서주"
+    ],
+    "answer": "정서주",
+    "explanation": "정답은 정서주입니다! 미스트롯3 진."
+  },
+  {
+    "type": "singer_guess",
+    "format": "multiple_choice",
+    "question": "다음 힌트의 가수는 누구일까요?\n1. 1996년생\n2. 전라북도 완주 출신\n3. 미스트롯3 선 (2위)",
+    "options": [
+      "이찬원",
+      "배아현",
+      "차지연",
+      "정동원"
+    ],
+    "answer": "배아현",
+    "explanation": "정답은 배아현입니다! 미스트롯3 선."
+  },
+  {
+    "type": "singer_guess",
+    "format": "multiple_choice",
+    "question": "다음 힌트의 가수는 누구일까요?\n1. 2009년생\n2. 경남 진주 출신\n3. 미스트롯3 미 (3위)",
+    "options": [
+      "오유진",
+      "재하",
+      "손태진",
+      "신성"
+    ],
+    "answer": "오유진",
+    "explanation": "정답은 오유진입니다! 미스트롯3 미."
+  },
+  {
+    "type": "singer_guess",
+    "format": "multiple_choice",
+    "question": "다음 힌트의 가수는 누구일까요?\n1. 1991년생\n2. 서울 출신 (춘천 성장)\n3. 미스트롯4 진 (1위)",
+    "options": [
+      "박지현",
+      "이소나",
+      "천록담",
+      "진해성"
+    ],
+    "answer": "이소나",
+    "explanation": "정답은 이소나입니다! 미스트롯4 진."
+  },
+  {
+    "type": "singer_guess",
+    "format": "multiple_choice",
+    "question": "다음 힌트의 가수는 누구일까요?\n1. 1992년생\n2. 미스트롯4 선 (2위)\n3. 전 아이돌(남녀공학/파이브돌스) 메인보컬",
+    "options": [
+      "마이진",
+      "허찬미",
+      "재하",
+      "차지연"
+    ],
+    "answer": "허찬미",
+    "explanation": "정답은 허찬미입니다! 미스트롯4 선."
+  },
+  {
+    "type": "singer_guess",
+    "format": "multiple_choice",
+    "question": "다음 힌트의 가수는 누구일까요?\n1. 2002년생\n2. 대전 출신\n3. 미스트롯4 미 (3위)",
+    "options": [
+      "양지은",
+      "허찬미",
+      "홍성윤",
+      "전유진"
+    ],
+    "answer": "홍성윤",
+    "explanation": "정답은 홍성윤입니다! 미스트롯4 미."
+  },
+  {
+    "type": "singer_guess",
+    "format": "multiple_choice",
+    "question": "다음 힌트의 가수는 누구일까요?\n1. 1988년생\n2. 서울 출신\n3. 불타는 트롯맨 1위",
+    "options": [
+      "손태진",
+      "천록담",
+      "마이진",
+      "민수현"
+    ],
+    "answer": "손태진",
+    "explanation": "정답은 손태진입니다! 불타는 트롯맨 1위."
+  },
+  {
+    "type": "singer_guess",
+    "format": "multiple_choice",
+    "question": "다음 힌트의 가수는 누구일까요?\n1. 1985년생\n2. 충남 예산 출신\n3. 불타는 트롯맨 2위",
+    "options": [
+      "신성",
+      "정미애",
+      "손태진",
+      "오유진"
+    ],
+    "answer": "신성",
+    "explanation": "정답은 신성입니다! 불타는 트롯맨 2위."
+  },
+  {
+    "type": "singer_guess",
+    "format": "multiple_choice",
+    "question": "다음 힌트의 가수는 누구일까요?\n1. 1994년생\n2. 대전 출신\n3. 불타는 트롯맨 3위",
+    "options": [
+      "김용빈",
+      "이찬원",
+      "마이진",
+      "민수현"
+    ],
+    "answer": "민수현",
+    "explanation": "정답은 민수현입니다! 불타는 트롯맨 3위."
+  },
+  {
+    "type": "singer_guess",
+    "format": "multiple_choice",
+    "question": "다음 힌트의 가수는 누구일까요?\n1. 1993년생\n2. 미국 시애틀 출신 (한국계 미국인)\n3. 트롯 전국체전 은메달 (2위)",
+    "options": [
+      "홍지윤",
+      "허찬미",
+      "재하",
+      "에녹"
+    ],
+    "answer": "재하",
+    "explanation": "정답은 재하입니다! 트롯 전국체전 은메달."
+  },
+  {
+    "type": "singer_guess",
+    "format": "multiple_choice",
+    "question": "다음 힌트의 가수는 누구일까요?\n1. 2006년생\n2. 경북 포항 출신\n3. 현역가왕1 초대 가왕",
+    "options": [
+      "손태진",
+      "천록담",
+      "전유진",
+      "이찬원"
+    ],
+    "answer": "전유진",
+    "explanation": "정답은 전유진입니다! 현역가왕1 1위."
+  },
+  {
+    "type": "singer_guess",
+    "format": "multiple_choice",
+    "question": "다음 힌트의 가수는 누구일까요?\n1. 1986년생\n2. 서울 출신\n3. 현역가왕1 2위",
+    "options": [
+      "전유진",
+      "이소나",
+      "홍자",
+      "마이진"
+    ],
+    "answer": "마이진",
+    "explanation": "정답은 마이진입니다! 현역가왕1 2위."
+  },
+  {
+    "type": "singer_guess",
+    "format": "multiple_choice",
+    "question": "다음 힌트의 가수는 누구일까요?\n1. 1995년생\n2. 경남 사천 출신\n3. 현역가왕2 가왕",
+    "options": [
+      "이찬원",
+      "김다현",
+      "정동원",
+      "박서진"
+    ],
+    "answer": "박서진",
+    "explanation": "정답은 박서진입니다! 현역가왕2 1위."
+  },
+  {
+    "type": "singer_guess",
+    "format": "multiple_choice",
+    "question": "다음 힌트의 가수는 누구일까요?\n1. 1980년생\n2. 부천 출신\n3. 현역가왕2 3위",
+    "options": [
+      "박서진",
+      "임영웅",
+      "에녹",
+      "장민호"
+    ],
+    "answer": "에녹",
+    "explanation": "정답은 에녹입니다! 현역가왕2 3위."
+  },
+  {
+    "type": "singer_guess",
+    "format": "multiple_choice",
+    "question": "다음 힌트의 가수는 누구일까요?\n1. 1982년생\n2. 대전 출신\n3. 현역가왕3 2위",
+    "options": [
+      "진해성",
+      "이수연",
+      "차지연",
+      "재하"
+    ],
+    "answer": "차지연",
+    "explanation": "정답은 차지연입니다! 현역가왕3 2위."
+  },
+  {
+    "type": "singer_guess",
+    "format": "multiple_choice",
+    "question": "다음 힌트의 가수는 누구일까요?\n1. 2014년생\n2. 경북 경주 출신\n3. 현역가왕3 3위",
+    "options": [
+      "홍자",
+      "마이진",
+      "홍지윤",
+      "이수연"
+    ],
+    "answer": "이수연",
+    "explanation": "정답은 이수연입니다! 현역가왕3 3위."
+  },
+  {
+    "type": "singer_guess",
+    "format": "multiple_choice",
+    "question": "다음 힌트의 가수는 누구일까요?\n1. 1947년생\n2. 부산 출신\n3. 트로트 황제로 불림",
+    "options": [
+      "나훈아",
+      "정동원",
+      "임영웅",
+      "진해성"
+    ],
+    "answer": "나훈아",
+    "explanation": "정답은 나훈아입니다! 트로트 황제."
+  },
+  {
+    "type": "singer_guess",
+    "format": "initial_consonant",
+    "question": "이 가수의 이름은 무엇일까요?\n힌트: 1991년생",
+    "initial_consonant": "ㅇㅇㅇ",
+    "options": [],
+    "answer": "임영웅",
+    "explanation": "정답은 임영웅입니다! 미스터트롯 시즌1 진."
+  },
+  {
+    "type": "singer_guess",
+    "format": "initial_consonant",
+    "question": "이 가수의 이름은 무엇일까요?\n힌트: 1987년생",
+    "initial_consonant": "ㅇㅌ",
+    "options": [],
+    "answer": "영탁",
+    "explanation": "정답은 영탁입니다! 미스터트롯 시즌1 선."
+  },
+  {
+    "type": "singer_guess",
+    "format": "initial_consonant",
+    "question": "이 가수의 이름은 무엇일까요?\n힌트: 1997년생",
+    "initial_consonant": "ㅇㅊㅇ",
+    "options": [],
+    "answer": "이찬원",
+    "explanation": "정답은 이찬원입니다! 미스터트롯 시즌1 미."
+  },
+  {
+    "type": "singer_guess",
+    "format": "initial_consonant",
+    "question": "이 가수의 이름은 무엇일까요?\n힌트: 2007년생",
+    "initial_consonant": "ㅈㄷㅇ",
+    "options": [],
+    "answer": "정동원",
+    "explanation": "정답은 정동원입니다! 미스터트롯 시즌1 수."
+  },
+  {
+    "type": "singer_guess",
+    "format": "initial_consonant",
+    "question": "이 가수의 이름은 무엇일까요?\n힌트: 1977년생",
+    "initial_consonant": "ㅈㅁㅎ",
+    "options": [],
+    "answer": "장민호",
+    "explanation": "정답은 장민호입니다! 미스터트롯 시즌1 우."
+  },
+  {
+    "type": "singer_guess",
+    "format": "initial_consonant",
+    "question": "이 가수의 이름은 무엇일까요?\n힌트: 1989년생",
+    "initial_consonant": "ㅇㅅㅎ",
+    "options": [],
+    "answer": "안성훈",
+    "explanation": "정답은 안성훈입니다! 미스터트롯2 진."
+  },
+  {
+    "type": "singer_guess",
+    "format": "initial_consonant",
+    "question": "이 가수의 이름은 무엇일까요?\n힌트: 1995년생",
+    "initial_consonant": "ㅂㅈㅎ",
+    "options": [],
+    "answer": "박지현",
+    "explanation": "정답은 박지현입니다! 미스터트롯2 선."
+  },
+  {
+    "type": "singer_guess",
+    "format": "initial_consonant",
+    "question": "이 가수의 이름은 무엇일까요?\n힌트: 1990년생",
+    "initial_consonant": "ㅈㅎㅅ",
+    "options": [],
+    "answer": "진해성",
+    "explanation": "정답은 진해성입니다! 미스터트롯2 미."
+  },
+  {
+    "type": "singer_guess",
+    "format": "initial_consonant",
+    "question": "이 가수의 이름은 무엇일까요?\n힌트: 1992년생",
+    "initial_consonant": "ㄱㅇㅂ",
+    "options": [],
+    "answer": "김용빈",
+    "explanation": "정답은 김용빈입니다! 미스터트롯3 진."
+  },
+  {
+    "type": "singer_guess",
+    "format": "initial_consonant",
+    "question": "이 가수의 이름은 무엇일까요?\n힌트: 1992년생",
+    "initial_consonant": "ㅅㅂㅇ",
+    "options": [],
+    "answer": "손빈아",
+    "explanation": "정답은 손빈아입니다! 미스터트롯3 선."
+  },
+  {
+    "type": "singer_guess",
+    "format": "initial_consonant",
+    "question": "이 가수의 이름은 무엇일까요?\n힌트: 1981년생",
+    "initial_consonant": "ㅊㄹㄷ",
+    "options": [],
+    "answer": "천록담",
+    "explanation": "정답은 천록담입니다! 미스터트롯3 미."
+  },
+  {
+    "type": "singer_guess",
+    "format": "initial_consonant",
+    "question": "이 가수의 이름은 무엇일까요?\n힌트: 1986년생",
+    "initial_consonant": "ㅅㄱㅇ",
+    "options": [],
+    "answer": "송가인",
+    "explanation": "정답은 송가인입니다! 미스트롯 시즌1 진."
+  },
+  {
+    "type": "singer_guess",
+    "format": "initial_consonant",
+    "question": "이 가수의 이름은 무엇일까요?\n힌트: 1982년생",
+    "initial_consonant": "ㅈㅁㅇ",
+    "options": [],
+    "answer": "정미애",
+    "explanation": "정답은 정미애입니다! 미스트롯 시즌1 선."
+  },
+  {
+    "type": "singer_guess",
+    "format": "initial_consonant",
+    "question": "이 가수의 이름은 무엇일까요?\n힌트: 1985년생",
+    "initial_consonant": "ㅎㅈ",
+    "options": [],
+    "answer": "홍자",
+    "explanation": "정답은 홍자입니다! 미스트롯 시즌1 미."
+  },
+  {
+    "type": "singer_guess",
+    "format": "initial_consonant",
+    "question": "이 가수의 이름은 무엇일까요?\n힌트: 1990년생",
+    "initial_consonant": "ㅇㅈㅇ",
+    "options": [],
+    "answer": "양지은",
+    "explanation": "정답은 양지은입니다! 미스트롯2 진."
+  },
+  {
+    "type": "singer_guess",
+    "format": "initial_consonant",
+    "question": "이 가수의 이름은 무엇일까요?\n힌트: 1995년생",
+    "initial_consonant": "ㅎㅈㅇ",
+    "options": [],
+    "answer": "홍지윤",
+    "explanation": "정답은 홍지윤입니다! 미스트롯2 선."
+  },
+  {
+    "type": "singer_guess",
+    "format": "initial_consonant",
+    "question": "이 가수의 이름은 무엇일까요?\n힌트: 2009년생",
+    "initial_consonant": "ㄱㄷㅎ",
+    "options": [],
+    "answer": "김다현",
+    "explanation": "정답은 김다현입니다! 미스트롯2 미."
+  },
+  {
+    "type": "singer_guess",
+    "format": "initial_consonant",
+    "question": "이 가수의 이름은 무엇일까요?\n힌트: 2008년생",
+    "initial_consonant": "ㅈㅅㅈ",
+    "options": [],
+    "answer": "정서주",
+    "explanation": "정답은 정서주입니다! 미스트롯3 진."
+  },
+  {
+    "type": "singer_guess",
+    "format": "initial_consonant",
+    "question": "이 가수의 이름은 무엇일까요?\n힌트: 1996년생",
+    "initial_consonant": "ㅂㅇㅎ",
+    "options": [],
+    "answer": "배아현",
+    "explanation": "정답은 배아현입니다! 미스트롯3 선."
+  },
+  {
+    "type": "singer_guess",
+    "format": "initial_consonant",
+    "question": "이 가수의 이름은 무엇일까요?\n힌트: 2009년생",
+    "initial_consonant": "ㅇㅇㅈ",
+    "options": [],
+    "answer": "오유진",
+    "explanation": "정답은 오유진입니다! 미스트롯3 미."
+  },
+  {
+    "type": "singer_guess",
+    "format": "initial_consonant",
+    "question": "이 가수의 이름은 무엇일까요?\n힌트: 1991년생",
+    "initial_consonant": "ㅇㅅㄴ",
+    "options": [],
+    "answer": "이소나",
+    "explanation": "정답은 이소나입니다! 미스트롯4 진."
+  },
+  {
+    "type": "singer_guess",
+    "format": "initial_consonant",
+    "question": "이 가수의 이름은 무엇일까요?\n힌트: 1992년생",
+    "initial_consonant": "ㅎㅊㅁ",
+    "options": [],
+    "answer": "허찬미",
+    "explanation": "정답은 허찬미입니다! 미스트롯4 선."
+  },
+  {
+    "type": "singer_guess",
+    "format": "initial_consonant",
+    "question": "이 가수의 이름은 무엇일까요?\n힌트: 2002년생",
+    "initial_consonant": "ㅎㅅㅇ",
+    "options": [],
+    "answer": "홍성윤",
+    "explanation": "정답은 홍성윤입니다! 미스트롯4 미."
+  },
+  {
+    "type": "singer_guess",
+    "format": "initial_consonant",
+    "question": "이 가수의 이름은 무엇일까요?\n힌트: 1988년생",
+    "initial_consonant": "ㅅㅌㅈ",
+    "options": [],
+    "answer": "손태진",
+    "explanation": "정답은 손태진입니다! 불타는 트롯맨 1위."
+  },
+  {
+    "type": "singer_guess",
+    "format": "initial_consonant",
+    "question": "이 가수의 이름은 무엇일까요?\n힌트: 1985년생",
+    "initial_consonant": "ㅅㅅ",
+    "options": [],
+    "answer": "신성",
+    "explanation": "정답은 신성입니다! 불타는 트롯맨 2위."
+  },
+  {
+    "type": "singer_guess",
+    "format": "initial_consonant",
+    "question": "이 가수의 이름은 무엇일까요?\n힌트: 1994년생",
+    "initial_consonant": "ㅁㅅㅎ",
+    "options": [],
+    "answer": "민수현",
+    "explanation": "정답은 민수현입니다! 불타는 트롯맨 3위."
+  },
+  {
+    "type": "singer_guess",
+    "format": "initial_consonant",
+    "question": "이 가수의 이름은 무엇일까요?\n힌트: 1993년생",
+    "initial_consonant": "ㅈㅎ",
+    "options": [],
+    "answer": "재하",
+    "explanation": "정답은 재하입니다! 트롯 전국체전 은메달."
+  },
+  {
+    "type": "singer_guess",
+    "format": "initial_consonant",
+    "question": "이 가수의 이름은 무엇일까요?\n힌트: 2006년생",
+    "initial_consonant": "ㅈㅇㅈ",
+    "options": [],
+    "answer": "전유진",
+    "explanation": "정답은 전유진입니다! 현역가왕1 1위."
+  },
+  {
+    "type": "singer_guess",
+    "format": "initial_consonant",
+    "question": "이 가수의 이름은 무엇일까요?\n힌트: 1986년생",
+    "initial_consonant": "ㅁㅇㅈ",
+    "options": [],
+    "answer": "마이진",
+    "explanation": "정답은 마이진입니다! 현역가왕1 2위."
+  },
+  {
+    "type": "singer_guess",
+    "format": "initial_consonant",
+    "question": "이 가수의 이름은 무엇일까요?\n힌트: 1995년생",
+    "initial_consonant": "ㅂㅅㅈ",
+    "options": [],
+    "answer": "박서진",
+    "explanation": "정답은 박서진입니다! 현역가왕2 1위."
+  },
+  {
+    "type": "singer_guess",
+    "format": "initial_consonant",
+    "question": "이 가수의 이름은 무엇일까요?\n힌트: 1980년생",
+    "initial_consonant": "ㅇㄴ",
+    "options": [],
+    "answer": "에녹",
+    "explanation": "정답은 에녹입니다! 현역가왕2 3위."
+  },
+  {
+    "type": "singer_guess",
+    "format": "initial_consonant",
+    "question": "이 가수의 이름은 무엇일까요?\n힌트: 1982년생",
+    "initial_consonant": "ㅊㅈㅇ",
+    "options": [],
+    "answer": "차지연",
+    "explanation": "정답은 차지연입니다! 현역가왕3 2위."
+  },
+  {
+    "type": "singer_guess",
+    "format": "initial_consonant",
+    "question": "이 가수의 이름은 무엇일까요?\n힌트: 2014년생",
+    "initial_consonant": "ㅇㅅㅇ",
+    "options": [],
+    "answer": "이수연",
+    "explanation": "정답은 이수연입니다! 현역가왕3 3위."
+  },
+  {
+    "type": "singer_guess",
+    "format": "initial_consonant",
+    "question": "이 가수의 이름은 무엇일까요?\n힌트: 1947년생",
+    "initial_consonant": "ㄴㅎㅇ",
+    "options": [],
+    "answer": "나훈아",
+    "explanation": "정답은 나훈아입니다! "
+  },
+  {
+    "type": "song_title",
+    "format": "multiple_choice",
+    "question": "임영웅의 대표곡은 무엇일까요?",
+    "options": [
+      "감사",
+      "어느 60대 노부부의 이야기",
+      "모란동백",
+      "사랑은 늘 도망가"
+    ],
+    "answer": "사랑은 늘 도망가",
+    "explanation": "'사랑은 늘 도망가'은(는) 임영웅의 대표곡입니다."
+  },
+  {
+    "type": "song_title",
+    "format": "multiple_choice",
+    "question": "영탁의 대표곡은 무엇일까요?",
+    "options": [
+      "트로트가 나는 좋아요",
+      "파이팅",
+      "예쁘잖아",
+      "찐이야"
+    ],
+    "answer": "찐이야",
+    "explanation": "'찐이야'은(는) 영탁의 대표곡입니다."
+  },
+  {
+    "type": "song_title",
+    "format": "multiple_choice",
+    "question": "이찬원의 대표곡은 무엇일까요?",
+    "options": [
+      "진또배기",
+      "그물",
+      "그중에 그대를 만나",
+      "다신"
+    ],
+    "answer": "진또배기",
+    "explanation": "'진또배기'은(는) 이찬원의 대표곡입니다."
+  },
+  {
+    "type": "song_title",
+    "format": "multiple_choice",
+    "question": "정동원의 대표곡은 무엇일까요?",
+    "options": [
+      "여백",
+      "조약돌 사랑",
+      "그중에 그대를 만나",
+      "만개화"
+    ],
+    "answer": "여백",
+    "explanation": "'여백'은(는) 정동원의 대표곡입니다."
+  },
+  {
+    "type": "song_title",
+    "format": "multiple_choice",
+    "question": "장민호의 대표곡은 무엇일까요?",
+    "options": [
+      "그대 내 친구여",
+      "남자는 말합니다",
+      "정이 뭐길래",
+      "상사화"
+    ],
+    "answer": "남자는 말합니다",
+    "explanation": "'남자는 말합니다'은(는) 장민호의 대표곡입니다."
+  },
+  {
+    "type": "song_title",
+    "format": "multiple_choice",
+    "question": "안성훈의 대표곡은 무엇일까요?",
+    "options": [
+      "세월 이길 장사 있나",
+      "엄마 아리랑",
+      "그대 내 친구여",
+      "그물"
+    ],
+    "answer": "그대 내 친구여",
+    "explanation": "'그대 내 친구여'은(는) 안성훈의 대표곡입니다."
+  },
+  {
+    "type": "song_title",
+    "format": "multiple_choice",
+    "question": "박지현의 대표곡은 무엇일까요?",
+    "options": [
+      "못난 놈",
+      "새벽차",
+      "사랑 참",
+      "사랑은 늘 도망가"
+    ],
+    "answer": "못난 놈",
+    "explanation": "'못난 놈'은(는) 박지현의 대표곡입니다."
+  },
+  {
+    "type": "song_title",
+    "format": "multiple_choice",
+    "question": "진해성의 대표곡은 무엇일까요?",
+    "options": [
+      "모정의 세월",
+      "왜 이래",
+      "이제 나만 믿어요",
+      "제3한강교"
+    ],
+    "answer": "모정의 세월",
+    "explanation": "'모정의 세월'은(는) 진해성의 대표곡입니다."
+  },
+  {
+    "type": "song_title",
+    "format": "multiple_choice",
+    "question": "김용빈의 대표곡은 무엇일까요?",
+    "options": [
+      "손 편지 한 장",
+      "진또배기",
+      "참 좋은 사람",
+      "선아야"
+    ],
+    "answer": "선아야",
+    "explanation": "'선아야'은(는) 김용빈의 대표곡입니다."
+  },
+  {
+    "type": "song_title",
+    "format": "multiple_choice",
+    "question": "손빈아의 대표곡은 무엇일까요?",
+    "options": [
+      "그물",
+      "감사",
+      "눈동자",
+      "가라지"
+    ],
+    "answer": "그물",
+    "explanation": "'그물'은(는) 손빈아의 대표곡입니다."
+  },
+  {
+    "type": "song_title",
+    "format": "multiple_choice",
+    "question": "천록담의 대표곡은 무엇일까요?",
+    "options": [
+      "새벽차",
+      "은인",
+      "트로트가 나는 좋아요",
+      "제3한강교"
+    ],
+    "answer": "제3한강교",
+    "explanation": "'제3한강교'은(는) 천록담의 대표곡입니다."
+  },
+  {
+    "type": "song_title",
+    "format": "multiple_choice",
+    "question": "송가인의 대표곡은 무엇일까요?",
+    "options": [
+      "가인이어라",
+      "편의점",
+      "그중에 그대를 만나",
+      "깜빡이를 키고 오세요"
+    ],
+    "answer": "가인이어라",
+    "explanation": "'가인이어라'은(는) 송가인의 대표곡입니다."
+  },
+  {
+    "type": "song_title",
+    "format": "multiple_choice",
+    "question": "정미애의 대표곡은 무엇일까요?",
+    "options": [
+      "그중에 그대를 만나",
+      "회룡포",
+      "파이팅",
+      "오뚜기 인생"
+    ],
+    "answer": "그중에 그대를 만나",
+    "explanation": "'그중에 그대를 만나'은(는) 정미애의 대표곡입니다."
+  },
+  {
+    "type": "song_title",
+    "format": "multiple_choice",
+    "question": "홍자의 대표곡은 무엇일까요?",
+    "options": [
+      "살다보면",
+      "참 좋은 사람",
+      "상사화",
+      "사랑 참"
+    ],
+    "answer": "사랑 참",
+    "explanation": "'사랑 참'은(는) 홍자의 대표곡입니다."
+  },
+  {
+    "type": "song_title",
+    "format": "multiple_choice",
+    "question": "양지은의 대표곡은 무엇일까요?",
+    "options": [
+      "그 강을 건너지마오",
+      "해운대 밤바다",
+      "사랑의 금메달",
+      "정"
+    ],
+    "answer": "그 강을 건너지마오",
+    "explanation": "'그 강을 건너지마오'은(는) 양지은의 대표곡입니다."
+  },
+  {
+    "type": "song_title",
+    "format": "multiple_choice",
+    "question": "홍지윤의 대표곡은 무엇일까요?",
+    "options": [
+      "엄마 아리랑",
+      "무심세월",
+      "가라지",
+      "눈동자"
+    ],
+    "answer": "엄마 아리랑",
+    "explanation": "'엄마 아리랑'은(는) 홍지윤의 대표곡입니다."
+  },
+  {
+    "type": "song_title",
+    "format": "multiple_choice",
+    "question": "김다현의 대표곡은 무엇일까요?",
+    "options": [
+      "훨훨훨",
+      "할매국시",
+      "눈동자",
+      "꽃처녀"
+    ],
+    "answer": "꽃처녀",
+    "explanation": "'꽃처녀'은(는) 김다현의 대표곡입니다."
+  },
+  {
+    "type": "song_title",
+    "format": "multiple_choice",
+    "question": "정서주의 대표곡은 무엇일까요?",
+    "options": [
+      "꽃들에게",
+      "예쁘잖아",
+      "기다리는 건 아무것도 아니에요",
+      "사랑은 늘 도망가"
+    ],
+    "answer": "꽃들에게",
+    "explanation": "'꽃들에게'은(는) 정서주의 대표곡입니다."
+  },
+  {
+    "type": "song_title",
+    "format": "multiple_choice",
+    "question": "배아현의 대표곡은 무엇일까요?",
+    "options": [
+      "놀아보세",
+      "트로트가 나는 좋아요",
+      "조약돌 사랑",
+      "참 좋은 사람"
+    ],
+    "answer": "조약돌 사랑",
+    "explanation": "'조약돌 사랑'은(는) 배아현의 대표곡입니다."
+  },
+  {
+    "type": "song_title",
+    "format": "multiple_choice",
+    "question": "오유진의 대표곡은 무엇일까요?",
+    "options": [
+      "새벽차",
+      "사랑의 방정식",
+      "사랑꽃",
+      "사랑은 늘 도망가"
+    ],
+    "answer": "사랑꽃",
+    "explanation": "'사랑꽃'은(는) 오유진의 대표곡입니다."
+  },
+  {
+    "type": "song_title",
+    "format": "multiple_choice",
+    "question": "이소나의 대표곡은 무엇일까요?",
+    "options": [
+      "꽃처녀",
+      "파이팅",
+      "정",
+      "조약돌 사랑"
+    ],
+    "answer": "정",
+    "explanation": "'정'은(는) 이소나의 대표곡입니다."
+  },
+  {
+    "type": "song_title",
+    "format": "multiple_choice",
+    "question": "허찬미의 대표곡은 무엇일까요?",
+    "options": [
+      "24시",
+      "찐이야",
+      "사랑꽃",
+      "니가 정말 좋아"
+    ],
+    "answer": "니가 정말 좋아",
+    "explanation": "'니가 정말 좋아'은(는) 허찬미의 대표곡입니다."
+  },
+  {
+    "type": "song_title",
+    "format": "multiple_choice",
+    "question": "홍성윤의 대표곡은 무엇일까요?",
+    "options": [
+      "정이 뭐길래",
+      "내 마음의 사진",
+      "깊은 밤을 날아서",
+      "만개화"
+    ],
+    "answer": "만개화",
+    "explanation": "'만개화'은(는) 홍성윤의 대표곡입니다."
+  },
+  {
+    "type": "song_title",
+    "format": "multiple_choice",
+    "question": "손태진의 대표곡은 무엇일까요?",
+    "options": [
+      "단 한 사람",
+      "오뚜기 인생",
+      "왜 이래",
+      "막걸리 한잔"
+    ],
+    "answer": "단 한 사람",
+    "explanation": "'단 한 사람'은(는) 손태진의 대표곡입니다."
+  },
+  {
+    "type": "song_title",
+    "format": "multiple_choice",
+    "question": "신성의 대표곡은 무엇일까요?",
+    "options": [
+      "사랑은 늘 도망가",
+      "사랑의 금메달",
+      "정이 뭐길래",
+      "그중에 그대를 만나"
+    ],
+    "answer": "사랑의 금메달",
+    "explanation": "'사랑의 금메달'은(는) 신성의 대표곡입니다."
+  },
+  {
+    "type": "song_title",
+    "format": "multiple_choice",
+    "question": "민수현의 대표곡은 무엇일까요?",
+    "options": [
+      "다신",
+      "가보자GO",
+      "사랑의 방정식",
+      "가라지"
+    ],
+    "answer": "사랑의 방정식",
+    "explanation": "'사랑의 방정식'은(는) 민수현의 대표곡입니다."
+  },
+  {
+    "type": "song_title",
+    "format": "multiple_choice",
+    "question": "재하의 대표곡은 무엇일까요?",
+    "options": [
+      "가라지",
+      "삼바파티",
+      "니가 정말 좋아",
+      "어느 60대 노부부의 이야기"
+    ],
+    "answer": "삼바파티",
+    "explanation": "'삼바파티'은(는) 재하의 대표곡입니다."
+  },
+  {
+    "type": "song_title",
+    "format": "multiple_choice",
+    "question": "전유진의 대표곡은 무엇일까요?",
+    "options": [
+      "대전역 부르스",
+      "빈손",
+      "세월 이길 장사 있나",
+      "훨훨훨"
+    ],
+    "answer": "훨훨훨",
+    "explanation": "'훨훨훨'은(는) 전유진의 대표곡입니다."
+  },
+  {
+    "type": "song_title",
+    "format": "multiple_choice",
+    "question": "마이진의 대표곡은 무엇일까요?",
+    "options": [
+      "찐이야",
+      "꽃처녀",
+      "빈손",
+      "정이 뭐길래"
+    ],
+    "answer": "빈손",
+    "explanation": "'빈손'은(는) 마이진의 대표곡입니다."
+  },
+  {
+    "type": "song_title",
+    "format": "multiple_choice",
+    "question": "박서진의 대표곡은 무엇일까요?",
+    "options": [
+      "가인이어라",
+      "정이 뭐길래",
+      "세월 이길 장사 있나",
+      "손 편지 한 장"
+    ],
+    "answer": "세월 이길 장사 있나",
+    "explanation": "'세월 이길 장사 있나'은(는) 박서진의 대표곡입니다."
+  },
+  {
+    "type": "song_title",
+    "format": "multiple_choice",
+    "question": "에녹의 대표곡은 무엇일까요?",
+    "options": [
+      "몽당연필",
+      "대전역 부르스",
+      "가버린 사랑",
+      "회룡포"
+    ],
+    "answer": "대전역 부르스",
+    "explanation": "'대전역 부르스'은(는) 에녹의 대표곡입니다."
+  },
+  {
+    "type": "song_title",
+    "format": "multiple_choice",
+    "question": "차지연의 대표곡은 무엇일까요?",
+    "options": [
+      "살다보면",
+      "엄마 아리랑",
+      "왜 이래",
+      "편의점"
+    ],
+    "answer": "살다보면",
+    "explanation": "'살다보면'은(는) 차지연의 대표곡입니다."
+  },
+  {
+    "type": "song_title",
+    "format": "multiple_choice",
+    "question": "이수연의 대표곡은 무엇일까요?",
+    "options": [
+      "놀아보세",
+      "다신",
+      "빙빙빙",
+      "몽당연필"
+    ],
+    "answer": "놀아보세",
+    "explanation": "'놀아보세'은(는) 이수연의 대표곡입니다."
+  },
+  {
+    "type": "song_title",
+    "format": "multiple_choice",
+    "question": "나훈아의 대표곡은 무엇일까요?",
+    "options": [
+      "테스형",
+      "엄마 아리랑",
+      "회룡포",
+      "막걸리 한잔"
+    ],
+    "answer": "테스형",
+    "explanation": "'테스형'은(는) 나훈아의 대표곡입니다."
+  },
+  {
+    "type": "song_title",
+    "format": "multiple_choice",
+    "question": "다음 중 임영웅의 노래는?",
+    "options": [
+      "사랑의 금메달",
+      "빈손",
+      "회룡포",
+      "이제 나만 믿어요"
+    ],
+    "answer": "이제 나만 믿어요",
+    "explanation": "'이제 나만 믿어요'은(는) 임영웅의 노래입니다."
+  },
+  {
+    "type": "song_title",
+    "format": "multiple_choice",
+    "question": "다음 중 영탁의 노래는?",
+    "options": [
+      "조약돌 사랑",
+      "할매국시",
+      "왜 이래",
+      "막걸리 한잔"
+    ],
+    "answer": "막걸리 한잔",
+    "explanation": "'막걸리 한잔'은(는) 영탁의 노래입니다."
+  },
+  {
+    "type": "song_title",
+    "format": "multiple_choice",
+    "question": "다음 중 이찬원의 노래는?",
+    "options": [
+      "왜 이래",
+      "편의점",
+      "가라지",
+      "무심세월"
+    ],
+    "answer": "편의점",
+    "explanation": "'편의점'은(는) 이찬원의 노래입니다."
+  },
+  {
+    "type": "song_title",
+    "format": "multiple_choice",
+    "question": "다음 중 정동원의 노래는?",
+    "options": [
+      "가버린 사랑",
+      "고향바람",
+      "태클을 걸지마",
+      "아버지의 강"
+    ],
+    "answer": "아버지의 강",
+    "explanation": "'아버지의 강'은(는) 정동원의 노래입니다."
+  },
+  {
+    "type": "song_title",
+    "format": "multiple_choice",
+    "question": "다음 중 장민호의 노래는?",
+    "options": [
+      "정이 뭐길래",
+      "단 한 사람",
+      "제3한강교",
+      "떠날 수 없는 당신"
+    ],
+    "answer": "정이 뭐길래",
+    "explanation": "'정이 뭐길래'은(는) 장민호의 노래입니다."
+  },
+  {
+    "type": "song_title",
+    "format": "multiple_choice",
+    "question": "다음 중 안성훈의 노래는?",
+    "options": [
+      "은인",
+      "떠날 수 없는 당신",
+      "사랑은 늘 도망가",
+      "못난 놈"
+    ],
+    "answer": "은인",
+    "explanation": "'은인'은(는) 안성훈의 노래입니다."
+  },
+  {
+    "type": "song_title",
+    "format": "multiple_choice",
+    "question": "다음 중 박지현의 노래는?",
+    "options": [
+      "남자는 말합니다",
+      "니가 정말 좋아",
+      "사모곡",
+      "떠날 수 없는 당신"
+    ],
+    "answer": "떠날 수 없는 당신",
+    "explanation": "'떠날 수 없는 당신'은(는) 박지현의 노래입니다."
+  },
+  {
+    "type": "song_title",
+    "format": "multiple_choice",
+    "question": "다음 중 진해성의 노래는?",
+    "options": [
+      "고향역",
+      "가라지",
+      "할매국시",
+      "삼바파티"
+    ],
+    "answer": "가라지",
+    "explanation": "'가라지'은(는) 진해성의 노래입니다."
+  },
+  {
+    "type": "song_title",
+    "format": "multiple_choice",
+    "question": "다음 중 김용빈의 노래는?",
+    "options": [
+      "감사",
+      "편의점",
+      "어느 60대 노부부의 이야기",
+      "가인이어라"
+    ],
+    "answer": "감사",
+    "explanation": "'감사'은(는) 김용빈의 노래입니다."
+  },
+  {
+    "type": "song_title",
+    "format": "multiple_choice",
+    "question": "다음 중 손빈아의 노래는?",
+    "options": [
+      "여백",
+      "모정의 세월",
+      "가버린 사랑",
+      "엄마 아리랑"
+    ],
+    "answer": "가버린 사랑",
+    "explanation": "'가버린 사랑'은(는) 손빈아의 노래입니다."
+  },
+  {
+    "type": "song_title",
+    "format": "multiple_choice",
+    "question": "다음 중 천록담의 노래는?",
+    "options": [
+      "다신",
+      "가보자GO",
+      "님 찾아왔어요",
+      "편의점"
+    ],
+    "answer": "다신",
+    "explanation": "'다신'은(는) 천록담의 노래입니다."
+  },
+  {
+    "type": "song_title",
+    "format": "multiple_choice",
+    "question": "다음 중 송가인의 노래는?",
+    "options": [
+      "트로트가 나는 좋아요",
+      "편의점",
+      "모정의 세월",
+      "니가 정말 좋아"
+    ],
+    "answer": "트로트가 나는 좋아요",
+    "explanation": "'트로트가 나는 좋아요'은(는) 송가인의 노래입니다."
+  },
+  {
+    "type": "song_title",
+    "format": "multiple_choice",
+    "question": "다음 중 정미애의 노래는?",
+    "options": [
+      "그대 내 친구여",
+      "다신",
+      "꽃처녀",
+      "고향바람"
+    ],
+    "answer": "고향바람",
+    "explanation": "'고향바람'은(는) 정미애의 노래입니다."
+  },
+  {
+    "type": "song_title",
+    "format": "multiple_choice",
+    "question": "다음 중 홍자의 노래는?",
+    "options": [
+      "그물",
+      "비나리",
+      "상사화",
+      "사랑은 늘 도망가"
+    ],
+    "answer": "상사화",
+    "explanation": "'상사화'은(는) 홍자의 노래입니다."
+  },
+  {
+    "type": "song_title",
+    "format": "multiple_choice",
+    "question": "다음 중 양지은의 노래는?",
+    "options": [
+      "빙빙빙",
+      "옹이",
+      "어느 60대 노부부의 이야기",
+      "님 찾아왔어요"
+    ],
+    "answer": "빙빙빙",
+    "explanation": "'빙빙빙'은(는) 양지은의 노래입니다."
+  },
+  {
+    "type": "song_title",
+    "format": "multiple_choice",
+    "question": "다음 중 홍지윤의 노래는?",
+    "options": [
+      "참 좋은 사람",
+      "편의점",
+      "새벽차",
+      "그중에 그대를 만나"
+    ],
+    "answer": "새벽차",
+    "explanation": "'새벽차'은(는) 홍지윤의 노래입니다."
+  },
+  {
+    "type": "song_title",
+    "format": "multiple_choice",
+    "question": "다음 중 김다현의 노래는?",
+    "options": [
+      "삼바파티",
+      "파이팅",
+      "제3한강교",
+      "오뚜기 인생"
+    ],
+    "answer": "파이팅",
+    "explanation": "'파이팅'은(는) 김다현의 노래입니다."
+  },
+  {
+    "type": "song_title",
+    "format": "multiple_choice",
+    "question": "다음 중 정서주의 노래는?",
+    "options": [
+      "살다보면",
+      "다신",
+      "기다리는 건 아무것도 아니에요",
+      "단 한 사람"
+    ],
+    "answer": "기다리는 건 아무것도 아니에요",
+    "explanation": "'기다리는 건 아무것도 아니에요'은(는) 정서주의 노래입니다."
+  },
+  {
+    "type": "song_title",
+    "format": "multiple_choice",
+    "question": "다음 중 배아현의 노래는?",
+    "options": [
+      "그 강을 건너지마오",
+      "사랑꽃",
+      "은인",
+      "모란동백"
+    ],
+    "answer": "모란동백",
+    "explanation": "'모란동백'은(는) 배아현의 노래입니다."
+  },
+  {
+    "type": "song_title",
+    "format": "multiple_choice",
+    "question": "다음 중 오유진의 노래는?",
+    "options": [
+      "예쁘잖아",
+      "꽃처녀",
+      "단 한 사람",
+      "비나리"
+    ],
+    "answer": "예쁘잖아",
+    "explanation": "'예쁘잖아'은(는) 오유진의 노래입니다."
+  },
+  {
+    "type": "song_title",
+    "format": "multiple_choice",
+    "question": "다음 중 이소나의 노래는?",
+    "options": [
+      "제3한강교",
+      "할매국시",
+      "트로트가 나는 좋아요",
+      "사랑의 미로"
+    ],
+    "answer": "사랑의 미로",
+    "explanation": "'사랑의 미로'은(는) 이소나의 노래입니다."
+  },
+  {
+    "type": "song_title",
+    "format": "multiple_choice",
+    "question": "다음 중 허찬미의 노래는?",
+    "options": [
+      "무심세월",
+      "못난 놈",
+      "해운대 밤바다",
+      "가인이어라"
+    ],
+    "answer": "해운대 밤바다",
+    "explanation": "'해운대 밤바다'은(는) 허찬미의 노래입니다."
+  },
+  {
+    "type": "song_title",
+    "format": "multiple_choice",
+    "question": "다음 중 손태진의 노래는?",
+    "options": [
+      "깊은 밤을 날아서",
+      "편의점",
+      "가보자GO",
+      "은인"
+    ],
+    "answer": "깊은 밤을 날아서",
+    "explanation": "'깊은 밤을 날아서'은(는) 손태진의 노래입니다."
+  },
+  {
+    "type": "song_title",
+    "format": "multiple_choice",
+    "question": "다음 중 신성의 노래는?",
+    "options": [
+      "떠날 수 없는 당신",
+      "눈동자",
+      "시절인연",
+      "오뚜기 인생"
+    ],
+    "answer": "오뚜기 인생",
+    "explanation": "'오뚜기 인생'은(는) 신성의 노래입니다."
+  },
+  {
+    "type": "song_title",
+    "format": "multiple_choice",
+    "question": "다음 중 민수현의 노래는?",
+    "options": [
+      "진또배기",
+      "훨훨훨",
+      "놀아보세",
+      "홍랑"
+    ],
+    "answer": "홍랑",
+    "explanation": "'홍랑'은(는) 민수현의 노래입니다."
+  },
+  {
+    "type": "song_title",
+    "format": "multiple_choice",
+    "question": "다음 중 재하의 노래는?",
+    "options": [
+      "어느 60대 노부부의 이야기",
+      "깊은 밤을 날아서",
+      "엄마 아리랑",
+      "눈동자"
+    ],
+    "answer": "눈동자",
+    "explanation": "'눈동자'은(는) 재하의 노래입니다."
+  },
+  {
+    "type": "song_title",
+    "format": "multiple_choice",
+    "question": "다음 중 전유진의 노래는?",
+    "options": [
+      "사랑...하시렵니까?",
+      "24시",
+      "가요 가요",
+      "세월 이길 장사 있나"
+    ],
+    "answer": "사랑...하시렵니까?",
+    "explanation": "'사랑...하시렵니까?'은(는) 전유진의 노래입니다."
+  },
+  {
+    "type": "song_title",
+    "format": "multiple_choice",
+    "question": "다음 중 마이진의 노래는?",
+    "options": [
+      "정이 뭐길래",
+      "새벽차",
+      "어느 60대 노부부의 이야기",
+      "옹이"
+    ],
+    "answer": "옹이",
+    "explanation": "'옹이'은(는) 마이진의 노래입니다."
+  },
+  {
+    "type": "song_title",
+    "format": "multiple_choice",
+    "question": "다음 중 박서진의 노래는?",
+    "options": [
+      "훨훨훨",
+      "비나리",
+      "태클을 걸지마",
+      "아버지의 강"
+    ],
+    "answer": "태클을 걸지마",
+    "explanation": "'태클을 걸지마'은(는) 박서진의 노래입니다."
+  },
+  {
+    "type": "song_title",
+    "format": "multiple_choice",
+    "question": "다음 중 차지연의 노래는?",
+    "options": [
+      "고독한 연인",
+      "사랑은 늘 도망가",
+      "가버린 사랑",
+      "단 한 사람"
+    ],
+    "answer": "고독한 연인",
+    "explanation": "'고독한 연인'은(는) 차지연의 노래입니다."
+  },
+  {
+    "type": "song_title",
+    "format": "multiple_choice",
+    "question": "다음 중 이수연의 노래는?",
+    "options": [
+      "사랑은 늘 도망가",
+      "가요 가요",
+      "꽃들에게",
+      "할매국시"
+    ],
+    "answer": "할매국시",
+    "explanation": "'할매국시'은(는) 이수연의 노래입니다."
+  },
+  {
+    "type": "song_title",
+    "format": "multiple_choice",
+    "question": "다음 중 나훈아의 노래는?",
+    "options": [
+      "사랑꽃",
+      "홍시",
+      "감사",
+      "막걸리 한잔"
+    ],
+    "answer": "홍시",
+    "explanation": "'홍시'은(는) 나훈아의 노래입니다."
+  },
+  {
+    "type": "song_title",
+    "format": "initial_consonant",
+    "question": "임영웅의 노래 제목을 맞춰보세요!",
+    "initial_consonant": "ㅅㄹㅇ ㄴ ㄷㅁㄱ",
+    "options": [],
+    "answer": "사랑은 늘 도망가",
+    "explanation": "정답은 '사랑은 늘 도망가'입니다! 임영웅의 대표곡이에요."
+  },
+  {
+    "type": "song_title",
+    "format": "initial_consonant",
+    "question": "영탁의 노래 제목을 맞춰보세요!",
+    "initial_consonant": "ㅉㅇㅇ",
+    "options": [],
+    "answer": "찐이야",
+    "explanation": "정답은 '찐이야'입니다! 영탁의 대표곡이에요."
+  },
+  {
+    "type": "song_title",
+    "format": "initial_consonant",
+    "question": "이찬원의 노래 제목을 맞춰보세요!",
+    "initial_consonant": "ㅈㄸㅂㄱ",
+    "options": [],
+    "answer": "진또배기",
+    "explanation": "정답은 '진또배기'입니다! 이찬원의 대표곡이에요."
+  },
+  {
+    "type": "song_title",
+    "format": "initial_consonant",
+    "question": "정동원의 노래 제목을 맞춰보세요!",
+    "initial_consonant": "ㅇㅂ",
+    "options": [],
+    "answer": "여백",
+    "explanation": "정답은 '여백'입니다! 정동원의 대표곡이에요."
+  },
+  {
+    "type": "song_title",
+    "format": "initial_consonant",
+    "question": "장민호의 노래 제목을 맞춰보세요!",
+    "initial_consonant": "ㄴㅈㄴ ㅁㅎㄴㄷ",
+    "options": [],
+    "answer": "남자는 말합니다",
+    "explanation": "정답은 '남자는 말합니다'입니다! 장민호의 대표곡이에요."
+  },
+  {
+    "type": "song_title",
+    "format": "initial_consonant",
+    "question": "안성훈의 노래 제목을 맞춰보세요!",
+    "initial_consonant": "ㄱㄷ ㄴ ㅊㄱㅇ",
+    "options": [],
+    "answer": "그대 내 친구여",
+    "explanation": "정답은 '그대 내 친구여'입니다! 안성훈의 대표곡이에요."
+  },
+  {
+    "type": "song_title",
+    "format": "initial_consonant",
+    "question": "박지현의 노래 제목을 맞춰보세요!",
+    "initial_consonant": "ㅁㄴ ㄴ",
+    "options": [],
+    "answer": "못난 놈",
+    "explanation": "정답은 '못난 놈'입니다! 박지현의 대표곡이에요."
+  },
+  {
+    "type": "song_title",
+    "format": "initial_consonant",
+    "question": "진해성의 노래 제목을 맞춰보세요!",
+    "initial_consonant": "ㅁㅈㅇ ㅅㅇ",
+    "options": [],
+    "answer": "모정의 세월",
+    "explanation": "정답은 '모정의 세월'입니다! 진해성의 대표곡이에요."
+  },
+  {
+    "type": "song_title",
+    "format": "initial_consonant",
+    "question": "김용빈의 노래 제목을 맞춰보세요!",
+    "initial_consonant": "ㅅㅇㅇ",
+    "options": [],
+    "answer": "선아야",
+    "explanation": "정답은 '선아야'입니다! 김용빈의 대표곡이에요."
+  },
+  {
+    "type": "song_title",
+    "format": "initial_consonant",
+    "question": "손빈아의 노래 제목을 맞춰보세요!",
+    "initial_consonant": "ㄱㅁ",
+    "options": [],
+    "answer": "그물",
+    "explanation": "정답은 '그물'입니다! 손빈아의 대표곡이에요."
+  },
+  {
+    "type": "song_title",
+    "format": "initial_consonant",
+    "question": "천록담의 노래 제목을 맞춰보세요!",
+    "initial_consonant": "ㅈ3ㅎㄱㄱ",
+    "options": [],
+    "answer": "제3한강교",
+    "explanation": "정답은 '제3한강교'입니다! 천록담의 대표곡이에요."
+  },
+  {
+    "type": "song_title",
+    "format": "initial_consonant",
+    "question": "송가인의 노래 제목을 맞춰보세요!",
+    "initial_consonant": "ㄱㅇㅇㅇㄹ",
+    "options": [],
+    "answer": "가인이어라",
+    "explanation": "정답은 '가인이어라'입니다! 송가인의 대표곡이에요."
+  },
+  {
+    "type": "song_title",
+    "format": "initial_consonant",
+    "question": "정미애의 노래 제목을 맞춰보세요!",
+    "initial_consonant": "ㄱㅈㅇ ㄱㄷㄹ ㅁㄴ",
+    "options": [],
+    "answer": "그중에 그대를 만나",
+    "explanation": "정답은 '그중에 그대를 만나'입니다! 정미애의 대표곡이에요."
+  },
+  {
+    "type": "song_title",
+    "format": "initial_consonant",
+    "question": "홍자의 노래 제목을 맞춰보세요!",
+    "initial_consonant": "ㅅㄹ ㅊ",
+    "options": [],
+    "answer": "사랑 참",
+    "explanation": "정답은 '사랑 참'입니다! 홍자의 대표곡이에요."
+  },
+  {
+    "type": "song_title",
+    "format": "initial_consonant",
+    "question": "양지은의 노래 제목을 맞춰보세요!",
+    "initial_consonant": "ㄱ ㄱㅇ ㄱㄴㅈㅁㅇ",
+    "options": [],
+    "answer": "그 강을 건너지마오",
+    "explanation": "정답은 '그 강을 건너지마오'입니다! 양지은의 대표곡이에요."
+  },
+  {
+    "type": "song_title",
+    "format": "initial_consonant",
+    "question": "홍지윤의 노래 제목을 맞춰보세요!",
+    "initial_consonant": "ㅇㅁ ㅇㄹㄹ",
+    "options": [],
+    "answer": "엄마 아리랑",
+    "explanation": "정답은 '엄마 아리랑'입니다! 홍지윤의 대표곡이에요."
+  },
+  {
+    "type": "song_title",
+    "format": "initial_consonant",
+    "question": "김다현의 노래 제목을 맞춰보세요!",
+    "initial_consonant": "ㄲㅊㄴ",
+    "options": [],
+    "answer": "꽃처녀",
+    "explanation": "정답은 '꽃처녀'입니다! 김다현의 대표곡이에요."
+  },
+  {
+    "type": "song_title",
+    "format": "initial_consonant",
+    "question": "정서주의 노래 제목을 맞춰보세요!",
+    "initial_consonant": "ㄲㄷㅇㄱ",
+    "options": [],
+    "answer": "꽃들에게",
+    "explanation": "정답은 '꽃들에게'입니다! 정서주의 대표곡이에요."
+  },
+  {
+    "type": "song_title",
+    "format": "initial_consonant",
+    "question": "배아현의 노래 제목을 맞춰보세요!",
+    "initial_consonant": "ㅈㅇㄷ ㅅㄹ",
+    "options": [],
+    "answer": "조약돌 사랑",
+    "explanation": "정답은 '조약돌 사랑'입니다! 배아현의 대표곡이에요."
+  },
+  {
+    "type": "song_title",
+    "format": "initial_consonant",
+    "question": "오유진의 노래 제목을 맞춰보세요!",
+    "initial_consonant": "ㅅㄹㄲ",
+    "options": [],
+    "answer": "사랑꽃",
+    "explanation": "정답은 '사랑꽃'입니다! 오유진의 대표곡이에요."
+  },
+  {
+    "type": "song_title",
+    "format": "initial_consonant",
+    "question": "허찬미의 노래 제목을 맞춰보세요!",
+    "initial_consonant": "ㄴㄱ ㅈㅁ ㅈㅇ",
+    "options": [],
+    "answer": "니가 정말 좋아",
+    "explanation": "정답은 '니가 정말 좋아'입니다! 허찬미의 대표곡이에요."
+  },
+  {
+    "type": "song_title",
+    "format": "initial_consonant",
+    "question": "홍성윤의 노래 제목을 맞춰보세요!",
+    "initial_consonant": "ㅁㄱㅎ",
+    "options": [],
+    "answer": "만개화",
+    "explanation": "정답은 '만개화'입니다! 홍성윤의 대표곡이에요."
+  },
+  {
+    "type": "song_title",
+    "format": "initial_consonant",
+    "question": "손태진의 노래 제목을 맞춰보세요!",
+    "initial_consonant": "ㄷ ㅎ ㅅㄹ",
+    "options": [],
+    "answer": "단 한 사람",
+    "explanation": "정답은 '단 한 사람'입니다! 손태진의 대표곡이에요."
+  },
+  {
+    "type": "song_title",
+    "format": "initial_consonant",
+    "question": "신성의 노래 제목을 맞춰보세요!",
+    "initial_consonant": "ㅅㄹㅇ ㄱㅁㄷ",
+    "options": [],
+    "answer": "사랑의 금메달",
+    "explanation": "정답은 '사랑의 금메달'입니다! 신성의 대표곡이에요."
+  },
+  {
+    "type": "song_title",
+    "format": "initial_consonant",
+    "question": "민수현의 노래 제목을 맞춰보세요!",
+    "initial_consonant": "ㅅㄹㅇ ㅂㅈㅅ",
+    "options": [],
+    "answer": "사랑의 방정식",
+    "explanation": "정답은 '사랑의 방정식'입니다! 민수현의 대표곡이에요."
+  },
+  {
+    "type": "song_title",
+    "format": "initial_consonant",
+    "question": "재하의 노래 제목을 맞춰보세요!",
+    "initial_consonant": "ㅅㅂㅍㅌ",
+    "options": [],
+    "answer": "삼바파티",
+    "explanation": "정답은 '삼바파티'입니다! 재하의 대표곡이에요."
+  },
+  {
+    "type": "song_title",
+    "format": "initial_consonant",
+    "question": "전유진의 노래 제목을 맞춰보세요!",
+    "initial_consonant": "ㅎㅎㅎ",
+    "options": [],
+    "answer": "훨훨훨",
+    "explanation": "정답은 '훨훨훨'입니다! 전유진의 대표곡이에요."
+  },
+  {
+    "type": "song_title",
+    "format": "initial_consonant",
+    "question": "마이진의 노래 제목을 맞춰보세요!",
+    "initial_consonant": "ㅂㅅ",
+    "options": [],
+    "answer": "빈손",
+    "explanation": "정답은 '빈손'입니다! 마이진의 대표곡이에요."
+  },
+  {
+    "type": "song_title",
+    "format": "initial_consonant",
+    "question": "박서진의 노래 제목을 맞춰보세요!",
+    "initial_consonant": "ㅅㅇ ㅇㄱ ㅈㅅ ㅇㄴ",
+    "options": [],
+    "answer": "세월 이길 장사 있나",
+    "explanation": "정답은 '세월 이길 장사 있나'입니다! 박서진의 대표곡이에요."
+  },
+  {
+    "type": "song_title",
+    "format": "initial_consonant",
+    "question": "에녹의 노래 제목을 맞춰보세요!",
+    "initial_consonant": "ㄷㅈㅇ ㅂㄹㅅ",
+    "options": [],
+    "answer": "대전역 부르스",
+    "explanation": "정답은 '대전역 부르스'입니다! 에녹의 대표곡이에요."
+  },
+  {
+    "type": "song_title",
+    "format": "initial_consonant",
+    "question": "차지연의 노래 제목을 맞춰보세요!",
+    "initial_consonant": "ㅅㄷㅂㅁ",
+    "options": [],
+    "answer": "살다보면",
+    "explanation": "정답은 '살다보면'입니다! 차지연의 대표곡이에요."
+  },
+  {
+    "type": "song_title",
+    "format": "initial_consonant",
+    "question": "이수연의 노래 제목을 맞춰보세요!",
+    "initial_consonant": "ㄴㅇㅂㅅ",
+    "options": [],
+    "answer": "놀아보세",
+    "explanation": "정답은 '놀아보세'입니다! 이수연의 대표곡이에요."
+  },
+  {
+    "type": "song_title",
+    "format": "initial_consonant",
+    "question": "나훈아의 노래 제목을 맞춰보세요!",
+    "initial_consonant": "ㅌㅅㅎ",
+    "options": [],
+    "answer": "테스형",
+    "explanation": "정답은 '테스형'입니다! 나훈아의 대표곡이에요."
+  },
+  {
+    "type": "episode_quiz",
+    "format": "ox",
+    "question": "미스터트롯 시즌1에서 임영웅은(는) '진'을(를) 차지했다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "O",
+    "explanation": "맞습니다! 임영웅은(는) 미스터트롯 시즌1에서 진을(를) 차지했습니다."
+  },
+  {
+    "type": "episode_quiz",
+    "format": "ox",
+    "question": "미스터트롯 시즌1에서 영탁은(는) '선'을(를) 차지했다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "O",
+    "explanation": "맞습니다! 영탁은(는) 미스터트롯 시즌1에서 선을(를) 차지했습니다."
+  },
+  {
+    "type": "episode_quiz",
+    "format": "ox",
+    "question": "미스터트롯 시즌1에서 이찬원은(는) '미'을(를) 차지했다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "O",
+    "explanation": "맞습니다! 이찬원은(는) 미스터트롯 시즌1에서 미을(를) 차지했습니다."
+  },
+  {
+    "type": "episode_quiz",
+    "format": "ox",
+    "question": "미스터트롯 시즌1에서 정동원은(는) '수'을(를) 차지했다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "O",
+    "explanation": "맞습니다! 정동원은(는) 미스터트롯 시즌1에서 수을(를) 차지했습니다."
+  },
+  {
+    "type": "episode_quiz",
+    "format": "ox",
+    "question": "미스터트롯 시즌1에서 장민호은(는) '우'을(를) 차지했다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "O",
+    "explanation": "맞습니다! 장민호은(는) 미스터트롯 시즌1에서 우을(를) 차지했습니다."
+  },
+  {
+    "type": "episode_quiz",
+    "format": "ox",
+    "question": "미스터트롯2에서 안성훈은(는) '진'을(를) 차지했다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "O",
+    "explanation": "맞습니다! 안성훈은(는) 미스터트롯2에서 진을(를) 차지했습니다."
+  },
+  {
+    "type": "episode_quiz",
+    "format": "ox",
+    "question": "미스터트롯2에서 박지현은(는) '선'을(를) 차지했다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "O",
+    "explanation": "맞습니다! 박지현은(는) 미스터트롯2에서 선을(를) 차지했습니다."
+  },
+  {
+    "type": "episode_quiz",
+    "format": "ox",
+    "question": "미스터트롯2에서 진해성은(는) '미'을(를) 차지했다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "O",
+    "explanation": "맞습니다! 진해성은(는) 미스터트롯2에서 미을(를) 차지했습니다."
+  },
+  {
+    "type": "episode_quiz",
+    "format": "ox",
+    "question": "미스터트롯3에서 김용빈은(는) '진'을(를) 차지했다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "O",
+    "explanation": "맞습니다! 김용빈은(는) 미스터트롯3에서 진을(를) 차지했습니다."
+  },
+  {
+    "type": "episode_quiz",
+    "format": "ox",
+    "question": "미스터트롯3에서 손빈아은(는) '선'을(를) 차지했다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "O",
+    "explanation": "맞습니다! 손빈아은(는) 미스터트롯3에서 선을(를) 차지했습니다."
+  },
+  {
+    "type": "episode_quiz",
+    "format": "ox",
+    "question": "미스터트롯3에서 천록담은(는) '미'을(를) 차지했다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "O",
+    "explanation": "맞습니다! 천록담은(는) 미스터트롯3에서 미을(를) 차지했습니다."
+  },
+  {
+    "type": "episode_quiz",
+    "format": "ox",
+    "question": "미스트롯 시즌1에서 송가인은(는) '진'을(를) 차지했다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "O",
+    "explanation": "맞습니다! 송가인은(는) 미스트롯 시즌1에서 진을(를) 차지했습니다."
+  },
+  {
+    "type": "episode_quiz",
+    "format": "ox",
+    "question": "미스트롯 시즌1에서 정미애은(는) '선'을(를) 차지했다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "O",
+    "explanation": "맞습니다! 정미애은(는) 미스트롯 시즌1에서 선을(를) 차지했습니다."
+  },
+  {
+    "type": "episode_quiz",
+    "format": "ox",
+    "question": "미스트롯 시즌1에서 홍자은(는) '미'을(를) 차지했다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "O",
+    "explanation": "맞습니다! 홍자은(는) 미스트롯 시즌1에서 미을(를) 차지했습니다."
+  },
+  {
+    "type": "episode_quiz",
+    "format": "ox",
+    "question": "미스트롯2에서 양지은은(는) '진'을(를) 차지했다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "O",
+    "explanation": "맞습니다! 양지은은(는) 미스트롯2에서 진을(를) 차지했습니다."
+  },
+  {
+    "type": "episode_quiz",
+    "format": "ox",
+    "question": "미스트롯2에서 홍지윤은(는) '선'을(를) 차지했다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "O",
+    "explanation": "맞습니다! 홍지윤은(는) 미스트롯2에서 선을(를) 차지했습니다."
+  },
+  {
+    "type": "episode_quiz",
+    "format": "ox",
+    "question": "미스트롯2에서 김다현은(는) '미'을(를) 차지했다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "O",
+    "explanation": "맞습니다! 김다현은(는) 미스트롯2에서 미을(를) 차지했습니다."
+  },
+  {
+    "type": "episode_quiz",
+    "format": "ox",
+    "question": "미스트롯3에서 정서주은(는) '진'을(를) 차지했다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "O",
+    "explanation": "맞습니다! 정서주은(는) 미스트롯3에서 진을(를) 차지했습니다."
+  },
+  {
+    "type": "episode_quiz",
+    "format": "ox",
+    "question": "미스트롯3에서 배아현은(는) '선'을(를) 차지했다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "O",
+    "explanation": "맞습니다! 배아현은(는) 미스트롯3에서 선을(를) 차지했습니다."
+  },
+  {
+    "type": "episode_quiz",
+    "format": "ox",
+    "question": "미스트롯3에서 오유진은(는) '미'을(를) 차지했다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "O",
+    "explanation": "맞습니다! 오유진은(는) 미스트롯3에서 미을(를) 차지했습니다."
+  },
+  {
+    "type": "episode_quiz",
+    "format": "ox",
+    "question": "미스트롯4에서 이소나은(는) '진'을(를) 차지했다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "O",
+    "explanation": "맞습니다! 이소나은(는) 미스트롯4에서 진을(를) 차지했습니다."
+  },
+  {
+    "type": "episode_quiz",
+    "format": "ox",
+    "question": "미스트롯4에서 허찬미은(는) '선'을(를) 차지했다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "O",
+    "explanation": "맞습니다! 허찬미은(는) 미스트롯4에서 선을(를) 차지했습니다."
+  },
+  {
+    "type": "episode_quiz",
+    "format": "ox",
+    "question": "미스트롯4에서 홍성윤은(는) '미'을(를) 차지했다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "O",
+    "explanation": "맞습니다! 홍성윤은(는) 미스트롯4에서 미을(를) 차지했습니다."
+  },
+  {
+    "type": "episode_quiz",
+    "format": "ox",
+    "question": "불타는 트롯맨에서 손태진은(는) '1위'을(를) 차지했다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "O",
+    "explanation": "맞습니다! 손태진은(는) 불타는 트롯맨에서 1위을(를) 차지했습니다."
+  },
+  {
+    "type": "episode_quiz",
+    "format": "ox",
+    "question": "불타는 트롯맨에서 신성은(는) '2위'을(를) 차지했다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "O",
+    "explanation": "맞습니다! 신성은(는) 불타는 트롯맨에서 2위을(를) 차지했습니다."
+  },
+  {
+    "type": "episode_quiz",
+    "format": "ox",
+    "question": "불타는 트롯맨에서 민수현은(는) '3위'을(를) 차지했다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "O",
+    "explanation": "맞습니다! 민수현은(는) 불타는 트롯맨에서 3위을(를) 차지했습니다."
+  },
+  {
+    "type": "episode_quiz",
+    "format": "ox",
+    "question": "트롯 전국체전에서 재하은(는) '은메달'을(를) 차지했다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "O",
+    "explanation": "맞습니다! 재하은(는) 트롯 전국체전에서 은메달을(를) 차지했습니다."
+  },
+  {
+    "type": "episode_quiz",
+    "format": "ox",
+    "question": "현역가왕1에서 전유진은(는) '1위'을(를) 차지했다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "O",
+    "explanation": "맞습니다! 전유진은(는) 현역가왕1에서 1위을(를) 차지했습니다."
+  },
+  {
+    "type": "episode_quiz",
+    "format": "ox",
+    "question": "현역가왕1에서 마이진은(는) '2위'을(를) 차지했다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "O",
+    "explanation": "맞습니다! 마이진은(는) 현역가왕1에서 2위을(를) 차지했습니다."
+  },
+  {
+    "type": "episode_quiz",
+    "format": "ox",
+    "question": "현역가왕2에서 박서진은(는) '1위'을(를) 차지했다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "O",
+    "explanation": "맞습니다! 박서진은(는) 현역가왕2에서 1위을(를) 차지했습니다."
+  },
+  {
+    "type": "episode_quiz",
+    "format": "ox",
+    "question": "현역가왕2에서 에녹은(는) '3위'을(를) 차지했다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "O",
+    "explanation": "맞습니다! 에녹은(는) 현역가왕2에서 3위을(를) 차지했습니다."
+  },
+  {
+    "type": "episode_quiz",
+    "format": "ox",
+    "question": "현역가왕3에서 차지연은(는) '2위'을(를) 차지했다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "O",
+    "explanation": "맞습니다! 차지연은(는) 현역가왕3에서 2위을(를) 차지했습니다."
+  },
+  {
+    "type": "episode_quiz",
+    "format": "ox",
+    "question": "현역가왕3에서 이수연은(는) '3위'을(를) 차지했다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "O",
+    "explanation": "맞습니다! 이수연은(는) 현역가왕3에서 3위을(를) 차지했습니다."
+  },
+  {
+    "type": "episode_quiz",
+    "format": "ox",
+    "question": "미스터트롯 시즌1에서 임영웅은(는) '선'을(를) 차지했다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "X",
+    "explanation": "틀렸습니다! 임영웅은(는) 미스터트롯 시즌1에서 '진'을(를) 차지했고, '선'은(는) 영탁입니다."
+  },
+  {
+    "type": "episode_quiz",
+    "format": "ox",
+    "question": "미스터트롯 시즌1에서 영탁은(는) '진'을(를) 차지했다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "X",
+    "explanation": "틀렸습니다! 영탁은(는) 미스터트롯 시즌1에서 '선'을(를) 차지했고, '진'은(는) 임영웅입니다."
+  },
+  {
+    "type": "episode_quiz",
+    "format": "ox",
+    "question": "미스터트롯 시즌1에서 이찬원은(는) '진'을(를) 차지했다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "X",
+    "explanation": "틀렸습니다! 이찬원은(는) 미스터트롯 시즌1에서 '미'을(를) 차지했고, '진'은(는) 임영웅입니다."
+  },
+  {
+    "type": "episode_quiz",
+    "format": "ox",
+    "question": "미스터트롯 시즌1에서 정동원은(는) '진'을(를) 차지했다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "X",
+    "explanation": "틀렸습니다! 정동원은(는) 미스터트롯 시즌1에서 '수'을(를) 차지했고, '진'은(는) 임영웅입니다."
+  },
+  {
+    "type": "episode_quiz",
+    "format": "ox",
+    "question": "미스터트롯 시즌1에서 장민호은(는) '진'을(를) 차지했다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "X",
+    "explanation": "틀렸습니다! 장민호은(는) 미스터트롯 시즌1에서 '우'을(를) 차지했고, '진'은(는) 임영웅입니다."
+  },
+  {
+    "type": "episode_quiz",
+    "format": "ox",
+    "question": "미스터트롯2에서 안성훈은(는) '선'을(를) 차지했다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "X",
+    "explanation": "틀렸습니다! 안성훈은(는) 미스터트롯2에서 '진'을(를) 차지했고, '선'은(는) 박지현입니다."
+  },
+  {
+    "type": "episode_quiz",
+    "format": "ox",
+    "question": "미스터트롯2에서 박지현은(는) '진'을(를) 차지했다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "X",
+    "explanation": "틀렸습니다! 박지현은(는) 미스터트롯2에서 '선'을(를) 차지했고, '진'은(는) 안성훈입니다."
+  },
+  {
+    "type": "episode_quiz",
+    "format": "ox",
+    "question": "미스터트롯2에서 진해성은(는) '진'을(를) 차지했다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "X",
+    "explanation": "틀렸습니다! 진해성은(는) 미스터트롯2에서 '미'을(를) 차지했고, '진'은(는) 안성훈입니다."
+  },
+  {
+    "type": "episode_quiz",
+    "format": "ox",
+    "question": "미스터트롯3에서 김용빈은(는) '선'을(를) 차지했다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "X",
+    "explanation": "틀렸습니다! 김용빈은(는) 미스터트롯3에서 '진'을(를) 차지했고, '선'은(는) 손빈아입니다."
+  },
+  {
+    "type": "episode_quiz",
+    "format": "ox",
+    "question": "미스터트롯3에서 손빈아은(는) '진'을(를) 차지했다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "X",
+    "explanation": "틀렸습니다! 손빈아은(는) 미스터트롯3에서 '선'을(를) 차지했고, '진'은(는) 김용빈입니다."
+  },
+  {
+    "type": "episode_quiz",
+    "format": "ox",
+    "question": "미스터트롯3에서 천록담은(는) '진'을(를) 차지했다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "X",
+    "explanation": "틀렸습니다! 천록담은(는) 미스터트롯3에서 '미'을(를) 차지했고, '진'은(는) 김용빈입니다."
+  },
+  {
+    "type": "episode_quiz",
+    "format": "ox",
+    "question": "미스트롯 시즌1에서 송가인은(는) '선'을(를) 차지했다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "X",
+    "explanation": "틀렸습니다! 송가인은(는) 미스트롯 시즌1에서 '진'을(를) 차지했고, '선'은(는) 정미애입니다."
+  },
+  {
+    "type": "episode_quiz",
+    "format": "ox",
+    "question": "미스트롯 시즌1에서 정미애은(는) '진'을(를) 차지했다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "X",
+    "explanation": "틀렸습니다! 정미애은(는) 미스트롯 시즌1에서 '선'을(를) 차지했고, '진'은(는) 송가인입니다."
+  },
+  {
+    "type": "episode_quiz",
+    "format": "ox",
+    "question": "미스트롯 시즌1에서 홍자은(는) '진'을(를) 차지했다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "X",
+    "explanation": "틀렸습니다! 홍자은(는) 미스트롯 시즌1에서 '미'을(를) 차지했고, '진'은(는) 송가인입니다."
+  },
+  {
+    "type": "episode_quiz",
+    "format": "ox",
+    "question": "미스트롯2에서 양지은은(는) '선'을(를) 차지했다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "X",
+    "explanation": "틀렸습니다! 양지은은(는) 미스트롯2에서 '진'을(를) 차지했고, '선'은(는) 홍지윤입니다."
+  },
+  {
+    "type": "episode_quiz",
+    "format": "ox",
+    "question": "미스트롯2에서 홍지윤은(는) '진'을(를) 차지했다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "X",
+    "explanation": "틀렸습니다! 홍지윤은(는) 미스트롯2에서 '선'을(를) 차지했고, '진'은(는) 양지은입니다."
+  },
+  {
+    "type": "episode_quiz",
+    "format": "ox",
+    "question": "미스트롯2에서 김다현은(는) '진'을(를) 차지했다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "X",
+    "explanation": "틀렸습니다! 김다현은(는) 미스트롯2에서 '미'을(를) 차지했고, '진'은(는) 양지은입니다."
+  },
+  {
+    "type": "episode_quiz",
+    "format": "ox",
+    "question": "미스트롯3에서 정서주은(는) '선'을(를) 차지했다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "X",
+    "explanation": "틀렸습니다! 정서주은(는) 미스트롯3에서 '진'을(를) 차지했고, '선'은(는) 배아현입니다."
+  },
+  {
+    "type": "episode_quiz",
+    "format": "ox",
+    "question": "미스트롯3에서 배아현은(는) '진'을(를) 차지했다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "X",
+    "explanation": "틀렸습니다! 배아현은(는) 미스트롯3에서 '선'을(를) 차지했고, '진'은(는) 정서주입니다."
+  },
+  {
+    "type": "episode_quiz",
+    "format": "ox",
+    "question": "미스트롯3에서 오유진은(는) '진'을(를) 차지했다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "X",
+    "explanation": "틀렸습니다! 오유진은(는) 미스트롯3에서 '미'을(를) 차지했고, '진'은(는) 정서주입니다."
+  },
+  {
+    "type": "episode_quiz",
+    "format": "ox",
+    "question": "미스트롯4에서 이소나은(는) '선'을(를) 차지했다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "X",
+    "explanation": "틀렸습니다! 이소나은(는) 미스트롯4에서 '진'을(를) 차지했고, '선'은(는) 허찬미입니다."
+  },
+  {
+    "type": "episode_quiz",
+    "format": "ox",
+    "question": "미스트롯4에서 허찬미은(는) '진'을(를) 차지했다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "X",
+    "explanation": "틀렸습니다! 허찬미은(는) 미스트롯4에서 '선'을(를) 차지했고, '진'은(는) 이소나입니다."
+  },
+  {
+    "type": "episode_quiz",
+    "format": "ox",
+    "question": "미스트롯4에서 홍성윤은(는) '진'을(를) 차지했다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "X",
+    "explanation": "틀렸습니다! 홍성윤은(는) 미스트롯4에서 '미'을(를) 차지했고, '진'은(는) 이소나입니다."
+  },
+  {
+    "type": "episode_quiz",
+    "format": "ox",
+    "question": "불타는 트롯맨에서 손태진은(는) '2위'을(를) 차지했다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "X",
+    "explanation": "틀렸습니다! 손태진은(는) 불타는 트롯맨에서 '1위'을(를) 차지했고, '2위'은(는) 신성입니다."
+  },
+  {
+    "type": "episode_quiz",
+    "format": "ox",
+    "question": "불타는 트롯맨에서 신성은(는) '1위'을(를) 차지했다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "X",
+    "explanation": "틀렸습니다! 신성은(는) 불타는 트롯맨에서 '2위'을(를) 차지했고, '1위'은(는) 손태진입니다."
+  },
+  {
+    "type": "episode_quiz",
+    "format": "ox",
+    "question": "불타는 트롯맨에서 민수현은(는) '1위'을(를) 차지했다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "X",
+    "explanation": "틀렸습니다! 민수현은(는) 불타는 트롯맨에서 '3위'을(를) 차지했고, '1위'은(는) 손태진입니다."
+  },
+  {
+    "type": "episode_quiz",
+    "format": "ox",
+    "question": "현역가왕1에서 전유진은(는) '2위'을(를) 차지했다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "X",
+    "explanation": "틀렸습니다! 전유진은(는) 현역가왕1에서 '1위'을(를) 차지했고, '2위'은(는) 마이진입니다."
+  },
+  {
+    "type": "episode_quiz",
+    "format": "ox",
+    "question": "현역가왕1에서 마이진은(는) '1위'을(를) 차지했다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "X",
+    "explanation": "틀렸습니다! 마이진은(는) 현역가왕1에서 '2위'을(를) 차지했고, '1위'은(는) 전유진입니다."
+  },
+  {
+    "type": "episode_quiz",
+    "format": "ox",
+    "question": "현역가왕2에서 박서진은(는) '3위'을(를) 차지했다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "X",
+    "explanation": "틀렸습니다! 박서진은(는) 현역가왕2에서 '1위'을(를) 차지했고, '3위'은(는) 에녹입니다."
+  },
+  {
+    "type": "episode_quiz",
+    "format": "ox",
+    "question": "현역가왕2에서 에녹은(는) '1위'을(를) 차지했다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "X",
+    "explanation": "틀렸습니다! 에녹은(는) 현역가왕2에서 '3위'을(를) 차지했고, '1위'은(는) 박서진입니다."
+  },
+  {
+    "type": "episode_quiz",
+    "format": "ox",
+    "question": "현역가왕3에서 차지연은(는) '3위'을(를) 차지했다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "X",
+    "explanation": "틀렸습니다! 차지연은(는) 현역가왕3에서 '2위'을(를) 차지했고, '3위'은(는) 이수연입니다."
+  },
+  {
+    "type": "episode_quiz",
+    "format": "ox",
+    "question": "현역가왕3에서 이수연은(는) '2위'을(를) 차지했다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "X",
+    "explanation": "틀렸습니다! 이수연은(는) 현역가왕3에서 '3위'을(를) 차지했고, '2위'은(는) 차지연입니다."
+  },
+  {
+    "type": "episode_quiz",
+    "format": "ox",
+    "question": "임영웅은(는) 경남 포항 출신이다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "O",
+    "explanation": "맞습니다! 임영웅은(는) 경남 포항 출신"
+  },
+  {
+    "type": "episode_quiz",
+    "format": "ox",
+    "question": "영탁은(는) 경북 영주 출신이다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "O",
+    "explanation": "맞습니다! 영탁은(는) 경북 영주 출신"
+  },
+  {
+    "type": "episode_quiz",
+    "format": "ox",
+    "question": "이찬원은(는) 서울 출신이다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "O",
+    "explanation": "맞습니다! 이찬원은(는) 서울 출신"
+  },
+  {
+    "type": "episode_quiz",
+    "format": "ox",
+    "question": "정동원은(는) 전남 목포 출신이다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "O",
+    "explanation": "맞습니다! 정동원은(는) 전남 목포 출신"
+  },
+  {
+    "type": "episode_quiz",
+    "format": "ox",
+    "question": "장민호은(는) 경남 사천 출신이다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "O",
+    "explanation": "맞습니다! 장민호은(는) 경남 사천 출신"
+  },
+  {
+    "type": "episode_quiz",
+    "format": "ox",
+    "question": "안성훈은(는) 경기도 시흥 출신이다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "O",
+    "explanation": "맞습니다! 안성훈은(는) 경기도 시흥 출신"
+  },
+  {
+    "type": "episode_quiz",
+    "format": "ox",
+    "question": "박지현은(는) 전남 목포 출신이다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "O",
+    "explanation": "맞습니다! 박지현은(는) 전남 목포 출신"
+  },
+  {
+    "type": "episode_quiz",
+    "format": "ox",
+    "question": "진해성은(는) 부산 출신이다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "O",
+    "explanation": "맞습니다! 진해성은(는) 부산 출신"
+  },
+  {
+    "type": "episode_quiz",
+    "format": "ox",
+    "question": "김용빈은(는) 대구 수성구 출신이다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "O",
+    "explanation": "맞습니다! 김용빈은(는) 대구 수성구 출신"
+  },
+  {
+    "type": "episode_quiz",
+    "format": "ox",
+    "question": "손빈아은(는) 경남 하동 출신이다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "O",
+    "explanation": "맞습니다! 손빈아은(는) 경남 하동 출신"
+  },
+  {
+    "type": "episode_quiz",
+    "format": "ox",
+    "question": "천록담은(는) 제주도 출신이다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "O",
+    "explanation": "맞습니다! 천록담은(는) 제주도 출신"
+  },
+  {
+    "type": "episode_quiz",
+    "format": "ox",
+    "question": "송가인은(는) 전남 진도 출신이다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "O",
+    "explanation": "맞습니다! 송가인은(는) 전남 진도 출신"
+  },
+  {
+    "type": "episode_quiz",
+    "format": "ox",
+    "question": "정미애은(는) 대구 출신이다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "O",
+    "explanation": "맞습니다! 정미애은(는) 대구 출신"
+  },
+  {
+    "type": "episode_quiz",
+    "format": "ox",
+    "question": "홍자은(는) 울산 출신이다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "O",
+    "explanation": "맞습니다! 홍자은(는) 울산 출신"
+  },
+  {
+    "type": "episode_quiz",
+    "format": "ox",
+    "question": "양지은은(는) 제주도 출신이다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "O",
+    "explanation": "맞습니다! 양지은은(는) 제주도 출신"
+  },
+  {
+    "type": "episode_quiz",
+    "format": "ox",
+    "question": "홍지윤은(는) 경기도 고양시 출신이다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "O",
+    "explanation": "맞습니다! 홍지윤은(는) 경기도 고양시 출신"
+  },
+  {
+    "type": "episode_quiz",
+    "format": "ox",
+    "question": "김다현은(는) 청학동 출신이다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "O",
+    "explanation": "맞습니다! 김다현은(는) 청학동 출신"
+  },
+  {
+    "type": "episode_quiz",
+    "format": "ox",
+    "question": "정서주은(는) 부산 수영구 출신이다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "O",
+    "explanation": "맞습니다! 정서주은(는) 부산 수영구 출신"
+  },
+  {
+    "type": "episode_quiz",
+    "format": "ox",
+    "question": "배아현은(는) 전라북도 완주 출신이다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "O",
+    "explanation": "맞습니다! 배아현은(는) 전라북도 완주 출신"
+  },
+  {
+    "type": "episode_quiz",
+    "format": "ox",
+    "question": "오유진은(는) 경남 진주 출신이다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "O",
+    "explanation": "맞습니다! 오유진은(는) 경남 진주 출신"
+  },
+  {
+    "type": "episode_quiz",
+    "format": "ox",
+    "question": "이소나은(는) 서울 출신이다. (춘천 성장)",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "O",
+    "explanation": "맞습니다! 이소나은(는) 서울 출신 (춘천 성장)"
+  },
+  {
+    "type": "episode_quiz",
+    "format": "ox",
+    "question": "허찬미은(는) 부모 모두 가수 출신이다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "O",
+    "explanation": "맞습니다! 허찬미은(는) 부모 모두 가수 출신"
+  },
+  {
+    "type": "episode_quiz",
+    "format": "ox",
+    "question": "홍성윤은(는) 대전 출신이다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "O",
+    "explanation": "맞습니다! 홍성윤은(는) 대전 출신"
+  },
+  {
+    "type": "episode_quiz",
+    "format": "ox",
+    "question": "손태진은(는) 서울 출신이다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "O",
+    "explanation": "맞습니다! 손태진은(는) 서울 출신"
+  },
+  {
+    "type": "episode_quiz",
+    "format": "ox",
+    "question": "신성은(는) 충남 예산 출신이다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "O",
+    "explanation": "맞습니다! 신성은(는) 충남 예산 출신"
+  },
+  {
+    "type": "episode_quiz",
+    "format": "ox",
+    "question": "민수현은(는) 대전 출신이다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "O",
+    "explanation": "맞습니다! 민수현은(는) 대전 출신"
+  },
+  {
+    "type": "episode_quiz",
+    "format": "ox",
+    "question": "재하은(는) 미국 시애틀 출신이다. (한국계 미국인)",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "O",
+    "explanation": "맞습니다! 재하은(는) 미국 시애틀 출신 (한국계 미국인)"
+  },
+  {
+    "type": "episode_quiz",
+    "format": "ox",
+    "question": "전유진은(는) 경북 포항 출신이다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "O",
+    "explanation": "맞습니다! 전유진은(는) 경북 포항 출신"
+  },
+  {
+    "type": "episode_quiz",
+    "format": "ox",
+    "question": "마이진은(는) 서울 출신이다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "O",
+    "explanation": "맞습니다! 마이진은(는) 서울 출신"
+  },
+  {
+    "type": "episode_quiz",
+    "format": "ox",
+    "question": "박서진은(는) 경남 사천 출신이다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "O",
+    "explanation": "맞습니다! 박서진은(는) 경남 사천 출신"
+  },
+  {
+    "type": "episode_quiz",
+    "format": "ox",
+    "question": "에녹은(는) 부천 출신이다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "O",
+    "explanation": "맞습니다! 에녹은(는) 부천 출신"
+  },
+  {
+    "type": "episode_quiz",
+    "format": "ox",
+    "question": "차지연은(는) 대전 출신이다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "O",
+    "explanation": "맞습니다! 차지연은(는) 대전 출신"
+  },
+  {
+    "type": "episode_quiz",
+    "format": "ox",
+    "question": "이수연은(는) 경북 경주 출신이다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "O",
+    "explanation": "맞습니다! 이수연은(는) 경북 경주 출신"
+  },
+  {
+    "type": "episode_quiz",
+    "format": "ox",
+    "question": "나훈아은(는) 부산 출신이다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "O",
+    "explanation": "맞습니다! 나훈아은(는) 부산 출신"
+  },
+  {
+    "type": "singer_guess",
+    "format": "multiple_choice",
+    "question": "'사랑은 늘 도망가'을(를) 부른 가수는 누구일까요?",
+    "options": [
+      "임영웅",
+      "박서진",
+      "송가인",
+      "홍지윤"
+    ],
+    "answer": "임영웅",
+    "explanation": "'사랑은 늘 도망가'은(는) 임영웅의 노래입니다."
+  },
+  {
+    "type": "singer_guess",
+    "format": "multiple_choice",
+    "question": "'이제 나만 믿어요'을(를) 부른 가수는 누구일까요?",
+    "options": [
+      "홍성윤",
+      "홍자",
+      "임영웅",
+      "나훈아"
+    ],
+    "answer": "임영웅",
+    "explanation": "'이제 나만 믿어요'은(는) 임영웅의 노래입니다."
+  },
+  {
+    "type": "singer_guess",
+    "format": "multiple_choice",
+    "question": "'어느 60대 노부부의 이야기'을(를) 부른 가수는 누구일까요?",
+    "options": [
+      "임영웅",
+      "천록담",
+      "신성",
+      "홍자"
+    ],
+    "answer": "임영웅",
+    "explanation": "'어느 60대 노부부의 이야기'은(는) 임영웅의 노래입니다."
+  },
+  {
+    "type": "singer_guess",
+    "format": "multiple_choice",
+    "question": "'찐이야'을(를) 부른 가수는 누구일까요?",
+    "options": [
+      "영탁",
+      "허찬미",
+      "박지현",
+      "양지은"
+    ],
+    "answer": "영탁",
+    "explanation": "'찐이야'은(는) 영탁의 노래입니다."
+  },
+  {
+    "type": "singer_guess",
+    "format": "multiple_choice",
+    "question": "'막걸리 한잔'을(를) 부른 가수는 누구일까요?",
+    "options": [
+      "송가인",
+      "정서주",
+      "전유진",
+      "영탁"
+    ],
+    "answer": "영탁",
+    "explanation": "'막걸리 한잔'은(는) 영탁의 노래입니다."
+  },
+  {
+    "type": "singer_guess",
+    "format": "multiple_choice",
+    "question": "'왜 이래'을(를) 부른 가수는 누구일까요?",
+    "options": [
+      "정미애",
+      "영탁",
+      "김다현",
+      "이찬원"
+    ],
+    "answer": "영탁",
+    "explanation": "'왜 이래'은(는) 영탁의 노래입니다."
+  },
+  {
+    "type": "singer_guess",
+    "format": "multiple_choice",
+    "question": "'진또배기'을(를) 부른 가수는 누구일까요?",
+    "options": [
+      "안성훈",
+      "이찬원",
+      "허찬미",
+      "임영웅"
+    ],
+    "answer": "이찬원",
+    "explanation": "'진또배기'은(는) 이찬원의 노래입니다."
+  },
+  {
+    "type": "singer_guess",
+    "format": "multiple_choice",
+    "question": "'편의점'을(를) 부른 가수는 누구일까요?",
+    "options": [
+      "이찬원",
+      "이소나",
+      "에녹",
+      "송가인"
+    ],
+    "answer": "이찬원",
+    "explanation": "'편의점'은(는) 이찬원의 노래입니다."
+  },
+  {
+    "type": "singer_guess",
+    "format": "multiple_choice",
+    "question": "'참 좋은 사람'을(를) 부른 가수는 누구일까요?",
+    "options": [
+      "이찬원",
+      "천록담",
+      "장민호",
+      "이수연"
+    ],
+    "answer": "이찬원",
+    "explanation": "'참 좋은 사람'은(는) 이찬원의 노래입니다."
+  },
+  {
+    "type": "singer_guess",
+    "format": "multiple_choice",
+    "question": "'여백'을(를) 부른 가수는 누구일까요?",
+    "options": [
+      "정동원",
+      "오유진",
+      "손빈아",
+      "임영웅"
+    ],
+    "answer": "정동원",
+    "explanation": "'여백'은(는) 정동원의 노래입니다."
+  },
+  {
+    "type": "singer_guess",
+    "format": "multiple_choice",
+    "question": "'아버지의 강'을(를) 부른 가수는 누구일까요?",
+    "options": [
+      "임영웅",
+      "김용빈",
+      "정동원",
+      "차지연"
+    ],
+    "answer": "정동원",
+    "explanation": "'아버지의 강'은(는) 정동원의 노래입니다."
+  },
+  {
+    "type": "singer_guess",
+    "format": "multiple_choice",
+    "question": "'남자는 말합니다'을(를) 부른 가수는 누구일까요?",
+    "options": [
+      "전유진",
+      "장민호",
+      "김용빈",
+      "나훈아"
+    ],
+    "answer": "장민호",
+    "explanation": "'남자는 말합니다'은(는) 장민호의 노래입니다."
+  },
+  {
+    "type": "singer_guess",
+    "format": "multiple_choice",
+    "question": "'정이 뭐길래'을(를) 부른 가수는 누구일까요?",
+    "options": [
+      "안성훈",
+      "장민호",
+      "이소나",
+      "박지현"
+    ],
+    "answer": "장민호",
+    "explanation": "'정이 뭐길래'은(는) 장민호의 노래입니다."
+  },
+  {
+    "type": "singer_guess",
+    "format": "multiple_choice",
+    "question": "'그대 내 친구여'을(를) 부른 가수는 누구일까요?",
+    "options": [
+      "나훈아",
+      "안성훈",
+      "박지현",
+      "홍지윤"
+    ],
+    "answer": "안성훈",
+    "explanation": "'그대 내 친구여'은(는) 안성훈의 노래입니다."
+  },
+  {
+    "type": "singer_guess",
+    "format": "multiple_choice",
+    "question": "'은인'을(를) 부른 가수는 누구일까요?",
+    "options": [
+      "안성훈",
+      "차지연",
+      "김용빈",
+      "에녹"
+    ],
+    "answer": "안성훈",
+    "explanation": "'은인'은(는) 안성훈의 노래입니다."
+  },
+  {
+    "type": "singer_guess",
+    "format": "multiple_choice",
+    "question": "'시절인연'을(를) 부른 가수는 누구일까요?",
+    "options": [
+      "이소나",
+      "오유진",
+      "신성",
+      "안성훈"
+    ],
+    "answer": "안성훈",
+    "explanation": "'시절인연'은(는) 안성훈의 노래입니다."
+  },
+  {
+    "type": "singer_guess",
+    "format": "multiple_choice",
+    "question": "'못난 놈'을(를) 부른 가수는 누구일까요?",
+    "options": [
+      "김다현",
+      "홍성윤",
+      "손빈아",
+      "박지현"
+    ],
+    "answer": "박지현",
+    "explanation": "'못난 놈'은(는) 박지현의 노래입니다."
+  },
+  {
+    "type": "singer_guess",
+    "format": "multiple_choice",
+    "question": "'떠날 수 없는 당신'을(를) 부른 가수는 누구일까요?",
+    "options": [
+      "이수연",
+      "박지현",
+      "김용빈",
+      "이찬원"
+    ],
+    "answer": "박지현",
+    "explanation": "'떠날 수 없는 당신'은(는) 박지현의 노래입니다."
+  },
+  {
+    "type": "singer_guess",
+    "format": "multiple_choice",
+    "question": "'깜빡이를 키고 오세요'을(를) 부른 가수는 누구일까요?",
+    "options": [
+      "영탁",
+      "박지현",
+      "정서주",
+      "천록담"
+    ],
+    "answer": "박지현",
+    "explanation": "'깜빡이를 키고 오세요'은(는) 박지현의 노래입니다."
+  },
+  {
+    "type": "singer_guess",
+    "format": "multiple_choice",
+    "question": "'모정의 세월'을(를) 부른 가수는 누구일까요?",
+    "options": [
+      "진해성",
+      "마이진",
+      "정동원",
+      "박지현"
+    ],
+    "answer": "진해성",
+    "explanation": "'모정의 세월'은(는) 진해성의 노래입니다."
+  },
+  {
+    "type": "singer_guess",
+    "format": "multiple_choice",
+    "question": "'가라지'을(를) 부른 가수는 누구일까요?",
+    "options": [
+      "정서주",
+      "진해성",
+      "안성훈",
+      "차지연"
+    ],
+    "answer": "진해성",
+    "explanation": "'가라지'은(는) 진해성의 노래입니다."
+  },
+  {
+    "type": "singer_guess",
+    "format": "multiple_choice",
+    "question": "'선아야'을(를) 부른 가수는 누구일까요?",
+    "options": [
+      "홍자",
+      "임영웅",
+      "김용빈",
+      "정동원"
+    ],
+    "answer": "김용빈",
+    "explanation": "'선아야'은(는) 김용빈의 노래입니다."
+  },
+  {
+    "type": "singer_guess",
+    "format": "multiple_choice",
+    "question": "'감사'을(를) 부른 가수는 누구일까요?",
+    "options": [
+      "이수연",
+      "재하",
+      "김용빈",
+      "송가인"
+    ],
+    "answer": "김용빈",
+    "explanation": "'감사'은(는) 김용빈의 노래입니다."
+  },
+  {
+    "type": "singer_guess",
+    "format": "multiple_choice",
+    "question": "'그물'을(를) 부른 가수는 누구일까요?",
+    "options": [
+      "손빈아",
+      "배아현",
+      "에녹",
+      "진해성"
+    ],
+    "answer": "손빈아",
+    "explanation": "'그물'은(는) 손빈아의 노래입니다."
+  },
+  {
+    "type": "singer_guess",
+    "format": "multiple_choice",
+    "question": "'가버린 사랑'을(를) 부른 가수는 누구일까요?",
+    "options": [
+      "에녹",
+      "천록담",
+      "영탁",
+      "손빈아"
+    ],
+    "answer": "손빈아",
+    "explanation": "'가버린 사랑'은(는) 손빈아의 노래입니다."
+  },
+  {
+    "type": "singer_guess",
+    "format": "multiple_choice",
+    "question": "'제3한강교'을(를) 부른 가수는 누구일까요?",
+    "options": [
+      "천록담",
+      "양지은",
+      "에녹",
+      "마이진"
+    ],
+    "answer": "천록담",
+    "explanation": "'제3한강교'은(는) 천록담의 노래입니다."
+  },
+  {
+    "type": "singer_guess",
+    "format": "multiple_choice",
+    "question": "'다신'을(를) 부른 가수는 누구일까요?",
+    "options": [
+      "천록담",
+      "안성훈",
+      "영탁",
+      "정동원"
+    ],
+    "answer": "천록담",
+    "explanation": "'다신'은(는) 천록담의 노래입니다."
+  },
+  {
+    "type": "singer_guess",
+    "format": "multiple_choice",
+    "question": "'가인이어라'을(를) 부른 가수는 누구일까요?",
+    "options": [
+      "홍자",
+      "김다현",
+      "송가인",
+      "천록담"
+    ],
+    "answer": "송가인",
+    "explanation": "'가인이어라'은(는) 송가인의 노래입니다."
+  },
+  {
+    "type": "singer_guess",
+    "format": "multiple_choice",
+    "question": "'트로트가 나는 좋아요'을(를) 부른 가수는 누구일까요?",
+    "options": [
+      "송가인",
+      "손태진",
+      "재하",
+      "정동원"
+    ],
+    "answer": "송가인",
+    "explanation": "'트로트가 나는 좋아요'은(는) 송가인의 노래입니다."
+  },
+  {
+    "type": "singer_guess",
+    "format": "multiple_choice",
+    "question": "'내 마음의 사진'을(를) 부른 가수는 누구일까요?",
+    "options": [
+      "송가인",
+      "이찬원",
+      "정동원",
+      "영탁"
+    ],
+    "answer": "송가인",
+    "explanation": "'내 마음의 사진'은(는) 송가인의 노래입니다."
+  },
+  {
+    "type": "singer_guess",
+    "format": "multiple_choice",
+    "question": "'그중에 그대를 만나'을(를) 부른 가수는 누구일까요?",
+    "options": [
+      "임영웅",
+      "천록담",
+      "양지은",
+      "정미애"
+    ],
+    "answer": "정미애",
+    "explanation": "'그중에 그대를 만나'은(는) 정미애의 노래입니다."
+  },
+  {
+    "type": "singer_guess",
+    "format": "multiple_choice",
+    "question": "'고향바람'을(를) 부른 가수는 누구일까요?",
+    "options": [
+      "정미애",
+      "정동원",
+      "정서주",
+      "신성"
+    ],
+    "answer": "정미애",
+    "explanation": "'고향바람'은(는) 정미애의 노래입니다."
+  },
+  {
+    "type": "singer_guess",
+    "format": "multiple_choice",
+    "question": "'님 찾아왔어요'을(를) 부른 가수는 누구일까요?",
+    "options": [
+      "나훈아",
+      "정미애",
+      "정서주",
+      "장민호"
+    ],
+    "answer": "정미애",
+    "explanation": "'님 찾아왔어요'은(는) 정미애의 노래입니다."
+  },
+  {
+    "type": "singer_guess",
+    "format": "multiple_choice",
+    "question": "'사랑 참'을(를) 부른 가수는 누구일까요?",
+    "options": [
+      "에녹",
+      "홍자",
+      "손태진",
+      "양지은"
+    ],
+    "answer": "홍자",
+    "explanation": "'사랑 참'은(는) 홍자의 노래입니다."
+  },
+  {
+    "type": "singer_guess",
+    "format": "multiple_choice",
+    "question": "'상사화'을(를) 부른 가수는 누구일까요?",
+    "options": [
+      "김다현",
+      "홍자",
+      "임영웅",
+      "박서진"
+    ],
+    "answer": "홍자",
+    "explanation": "'상사화'은(는) 홍자의 노래입니다."
+  },
+  {
+    "type": "singer_guess",
+    "format": "multiple_choice",
+    "question": "'비나리'을(를) 부른 가수는 누구일까요?",
+    "options": [
+      "이찬원",
+      "홍자",
+      "송가인",
+      "정서주"
+    ],
+    "answer": "홍자",
+    "explanation": "'비나리'은(는) 홍자의 노래입니다."
+  },
+  {
+    "type": "singer_guess",
+    "format": "multiple_choice",
+    "question": "'그 강을 건너지마오'을(를) 부른 가수는 누구일까요?",
+    "options": [
+      "홍성윤",
+      "안성훈",
+      "이찬원",
+      "양지은"
+    ],
+    "answer": "양지은",
+    "explanation": "'그 강을 건너지마오'은(는) 양지은의 노래입니다."
+  },
+  {
+    "type": "singer_guess",
+    "format": "multiple_choice",
+    "question": "'빙빙빙'을(를) 부른 가수는 누구일까요?",
+    "options": [
+      "양지은",
+      "홍자",
+      "신성",
+      "천록담"
+    ],
+    "answer": "양지은",
+    "explanation": "'빙빙빙'은(는) 양지은의 노래입니다."
+  },
+  {
+    "type": "singer_guess",
+    "format": "multiple_choice",
+    "question": "'사모곡'을(를) 부른 가수는 누구일까요?",
+    "options": [
+      "양지은",
+      "재하",
+      "임영웅",
+      "박서진"
+    ],
+    "answer": "양지은",
+    "explanation": "'사모곡'은(는) 양지은의 노래입니다."
+  },
+  {
+    "type": "singer_guess",
+    "format": "multiple_choice",
+    "question": "'엄마 아리랑'을(를) 부른 가수는 누구일까요?",
+    "options": [
+      "홍자",
+      "장민호",
+      "박서진",
+      "홍지윤"
+    ],
+    "answer": "홍지윤",
+    "explanation": "'엄마 아리랑'은(는) 홍지윤의 노래입니다."
+  },
+  {
+    "type": "singer_guess",
+    "format": "multiple_choice",
+    "question": "'새벽차'을(를) 부른 가수는 누구일까요?",
+    "options": [
+      "홍지윤",
+      "정동원",
+      "재하",
+      "손태진"
+    ],
+    "answer": "홍지윤",
+    "explanation": "'새벽차'은(는) 홍지윤의 노래입니다."
+  },
+  {
+    "type": "singer_guess",
+    "format": "multiple_choice",
+    "question": "'가보자GO'을(를) 부른 가수는 누구일까요?",
+    "options": [
+      "홍지윤",
+      "에녹",
+      "양지은",
+      "진해성"
+    ],
+    "answer": "홍지윤",
+    "explanation": "'가보자GO'은(는) 홍지윤의 노래입니다."
+  },
+  {
+    "type": "singer_guess",
+    "format": "multiple_choice",
+    "question": "'꽃처녀'을(를) 부른 가수는 누구일까요?",
+    "options": [
+      "배아현",
+      "민수현",
+      "양지은",
+      "김다현"
+    ],
+    "answer": "김다현",
+    "explanation": "'꽃처녀'은(는) 김다현의 노래입니다."
+  },
+  {
+    "type": "singer_guess",
+    "format": "multiple_choice",
+    "question": "'파이팅'을(를) 부른 가수는 누구일까요?",
+    "options": [
+      "김다현",
+      "정동원",
+      "장민호",
+      "이찬원"
+    ],
+    "answer": "김다현",
+    "explanation": "'파이팅'은(는) 김다현의 노래입니다."
+  },
+  {
+    "type": "singer_guess",
+    "format": "multiple_choice",
+    "question": "'회룡포'을(를) 부른 가수는 누구일까요?",
+    "options": [
+      "박지현",
+      "손태진",
+      "이수연",
+      "김다현"
+    ],
+    "answer": "김다현",
+    "explanation": "'회룡포'은(는) 김다현의 노래입니다."
+  },
+  {
+    "type": "singer_guess",
+    "format": "multiple_choice",
+    "question": "'꽃들에게'을(를) 부른 가수는 누구일까요?",
+    "options": [
+      "마이진",
+      "정서주",
+      "손빈아",
+      "진해성"
+    ],
+    "answer": "정서주",
+    "explanation": "'꽃들에게'은(는) 정서주의 노래입니다."
+  },
+  {
+    "type": "singer_guess",
+    "format": "multiple_choice",
+    "question": "'기다리는 건 아무것도 아니에요'을(를) 부른 가수는 누구일까요?",
+    "options": [
+      "양지은",
+      "신성",
+      "홍성윤",
+      "정서주"
+    ],
+    "answer": "정서주",
+    "explanation": "'기다리는 건 아무것도 아니에요'은(는) 정서주의 노래입니다."
+  },
+  {
+    "type": "singer_guess",
+    "format": "multiple_choice",
+    "question": "'손 편지 한 장'을(를) 부른 가수는 누구일까요?",
+    "options": [
+      "천록담",
+      "홍지윤",
+      "정서주",
+      "진해성"
+    ],
+    "answer": "정서주",
+    "explanation": "'손 편지 한 장'은(는) 정서주의 노래입니다."
+  },
+  {
+    "type": "singer_guess",
+    "format": "multiple_choice",
+    "question": "'조약돌 사랑'을(를) 부른 가수는 누구일까요?",
+    "options": [
+      "배아현",
+      "박서진",
+      "홍지윤",
+      "임영웅"
+    ],
+    "answer": "배아현",
+    "explanation": "'조약돌 사랑'은(는) 배아현의 노래입니다."
+  },
+  {
+    "type": "singer_guess",
+    "format": "multiple_choice",
+    "question": "'모란동백'을(를) 부른 가수는 누구일까요?",
+    "options": [
+      "배아현",
+      "차지연",
+      "허찬미",
+      "송가인"
+    ],
+    "answer": "배아현",
+    "explanation": "'모란동백'은(는) 배아현의 노래입니다."
+  },
+  {
+    "type": "singer_guess",
+    "format": "multiple_choice",
+    "question": "'24시'을(를) 부른 가수는 누구일까요?",
+    "options": [
+      "배아현",
+      "임영웅",
+      "양지은",
+      "영탁"
+    ],
+    "answer": "배아현",
+    "explanation": "'24시'은(는) 배아현의 노래입니다."
+  },
+  {
+    "type": "singer_guess",
+    "format": "multiple_choice",
+    "question": "'사랑꽃'을(를) 부른 가수는 누구일까요?",
+    "options": [
+      "천록담",
+      "오유진",
+      "진해성",
+      "허찬미"
+    ],
+    "answer": "오유진",
+    "explanation": "'사랑꽃'은(는) 오유진의 노래입니다."
+  },
+  {
+    "type": "singer_guess",
+    "format": "multiple_choice",
+    "question": "'예쁘잖아'을(를) 부른 가수는 누구일까요?",
+    "options": [
+      "정동원",
+      "송가인",
+      "오유진",
+      "손태진"
+    ],
+    "answer": "오유진",
+    "explanation": "'예쁘잖아'은(는) 오유진의 노래입니다."
+  },
+  {
+    "type": "singer_guess",
+    "format": "multiple_choice",
+    "question": "'정'을(를) 부른 가수는 누구일까요?",
+    "options": [
+      "민수현",
+      "영탁",
+      "이소나",
+      "박지현"
+    ],
+    "answer": "이소나",
+    "explanation": "'정'은(는) 이소나의 노래입니다."
+  },
+  {
+    "type": "singer_guess",
+    "format": "multiple_choice",
+    "question": "'사랑의 미로'을(를) 부른 가수는 누구일까요?",
+    "options": [
+      "신성",
+      "박지현",
+      "이소나",
+      "천록담"
+    ],
+    "answer": "이소나",
+    "explanation": "'사랑의 미로'은(는) 이소나의 노래입니다."
+  },
+  {
+    "type": "singer_guess",
+    "format": "multiple_choice",
+    "question": "'니가 정말 좋아'을(를) 부른 가수는 누구일까요?",
+    "options": [
+      "손빈아",
+      "이소나",
+      "허찬미",
+      "배아현"
+    ],
+    "answer": "허찬미",
+    "explanation": "'니가 정말 좋아'은(는) 허찬미의 노래입니다."
+  },
+  {
+    "type": "singer_guess",
+    "format": "multiple_choice",
+    "question": "'해운대 밤바다'을(를) 부른 가수는 누구일까요?",
+    "options": [
+      "박서진",
+      "에녹",
+      "정동원",
+      "허찬미"
+    ],
+    "answer": "허찬미",
+    "explanation": "'해운대 밤바다'은(는) 허찬미의 노래입니다."
+  },
+  {
+    "type": "singer_guess",
+    "format": "multiple_choice",
+    "question": "'만개화'을(를) 부른 가수는 누구일까요?",
+    "options": [
+      "홍성윤",
+      "박지현",
+      "차지연",
+      "김용빈"
+    ],
+    "answer": "홍성윤",
+    "explanation": "'만개화'은(는) 홍성윤의 노래입니다."
+  },
+  {
+    "type": "singer_guess",
+    "format": "multiple_choice",
+    "question": "'단 한 사람'을(를) 부른 가수는 누구일까요?",
+    "options": [
+      "진해성",
+      "이찬원",
+      "손태진",
+      "임영웅"
+    ],
+    "answer": "손태진",
+    "explanation": "'단 한 사람'은(는) 손태진의 노래입니다."
+  },
+  {
+    "type": "singer_guess",
+    "format": "multiple_choice",
+    "question": "'깊은 밤을 날아서'을(를) 부른 가수는 누구일까요?",
+    "options": [
+      "정동원",
+      "손태진",
+      "홍자",
+      "나훈아"
+    ],
+    "answer": "손태진",
+    "explanation": "'깊은 밤을 날아서'은(는) 손태진의 노래입니다."
+  },
+  {
+    "type": "singer_guess",
+    "format": "multiple_choice",
+    "question": "'당신의 꽃'을(를) 부른 가수는 누구일까요?",
+    "options": [
+      "손태진",
+      "박서진",
+      "차지연",
+      "천록담"
+    ],
+    "answer": "손태진",
+    "explanation": "'당신의 꽃'은(는) 손태진의 노래입니다."
+  },
+  {
+    "type": "singer_guess",
+    "format": "multiple_choice",
+    "question": "'사랑의 금메달'을(를) 부른 가수는 누구일까요?",
+    "options": [
+      "양지은",
+      "오유진",
+      "신성",
+      "허찬미"
+    ],
+    "answer": "신성",
+    "explanation": "'사랑의 금메달'은(는) 신성의 노래입니다."
+  },
+  {
+    "type": "singer_guess",
+    "format": "multiple_choice",
+    "question": "'오뚜기 인생'을(를) 부른 가수는 누구일까요?",
+    "options": [
+      "신성",
+      "손태진",
+      "박서진",
+      "홍자"
+    ],
+    "answer": "신성",
+    "explanation": "'오뚜기 인생'은(는) 신성의 노래입니다."
+  },
+  {
+    "type": "singer_guess",
+    "format": "multiple_choice",
+    "question": "'사랑의 방정식'을(를) 부른 가수는 누구일까요?",
+    "options": [
+      "정미애",
+      "손태진",
+      "양지은",
+      "민수현"
+    ],
+    "answer": "민수현",
+    "explanation": "'사랑의 방정식'은(는) 민수현의 노래입니다."
+  },
+  {
+    "type": "singer_guess",
+    "format": "multiple_choice",
+    "question": "'홍랑'을(를) 부른 가수는 누구일까요?",
+    "options": [
+      "진해성",
+      "민수현",
+      "이찬원",
+      "허찬미"
+    ],
+    "answer": "민수현",
+    "explanation": "'홍랑'은(는) 민수현의 노래입니다."
+  },
+  {
+    "type": "singer_guess",
+    "format": "multiple_choice",
+    "question": "'무심세월'을(를) 부른 가수는 누구일까요?",
+    "options": [
+      "민수현",
+      "박서진",
+      "에녹",
+      "신성"
+    ],
+    "answer": "민수현",
+    "explanation": "'무심세월'은(는) 민수현의 노래입니다."
+  },
+  {
+    "type": "singer_guess",
+    "format": "multiple_choice",
+    "question": "'삼바파티'을(를) 부른 가수는 누구일까요?",
+    "options": [
+      "재하",
+      "배아현",
+      "임영웅",
+      "홍성윤"
+    ],
+    "answer": "재하",
+    "explanation": "'삼바파티'은(는) 재하의 노래입니다."
+  },
+  {
+    "type": "singer_guess",
+    "format": "multiple_choice",
+    "question": "'눈동자'을(를) 부른 가수는 누구일까요?",
+    "options": [
+      "장민호",
+      "김다현",
+      "재하",
+      "차지연"
+    ],
+    "answer": "재하",
+    "explanation": "'눈동자'은(는) 재하의 노래입니다."
+  },
+  {
+    "type": "singer_guess",
+    "format": "multiple_choice",
+    "question": "'훨훨훨'을(를) 부른 가수는 누구일까요?",
+    "options": [
+      "김다현",
+      "전유진",
+      "임영웅",
+      "나훈아"
+    ],
+    "answer": "전유진",
+    "explanation": "'훨훨훨'은(는) 전유진의 노래입니다."
+  },
+  {
+    "type": "singer_guess",
+    "format": "multiple_choice",
+    "question": "'사랑...하시렵니까?'을(를) 부른 가수는 누구일까요?",
+    "options": [
+      "진해성",
+      "영탁",
+      "천록담",
+      "전유진"
+    ],
+    "answer": "전유진",
+    "explanation": "'사랑...하시렵니까?'은(는) 전유진의 노래입니다."
+  },
+  {
+    "type": "singer_guess",
+    "format": "multiple_choice",
+    "question": "'가요 가요'을(를) 부른 가수는 누구일까요?",
+    "options": [
+      "송가인",
+      "전유진",
+      "양지은",
+      "재하"
+    ],
+    "answer": "전유진",
+    "explanation": "'가요 가요'은(는) 전유진의 노래입니다."
+  },
+  {
+    "type": "singer_guess",
+    "format": "multiple_choice",
+    "question": "'빈손'을(를) 부른 가수는 누구일까요?",
+    "options": [
+      "마이진",
+      "전유진",
+      "이수연",
+      "홍성윤"
+    ],
+    "answer": "마이진",
+    "explanation": "'빈손'은(는) 마이진의 노래입니다."
+  },
+  {
+    "type": "singer_guess",
+    "format": "multiple_choice",
+    "question": "'옹이'을(를) 부른 가수는 누구일까요?",
+    "options": [
+      "마이진",
+      "홍자",
+      "나훈아",
+      "신성"
+    ],
+    "answer": "마이진",
+    "explanation": "'옹이'은(는) 마이진의 노래입니다."
+  },
+  {
+    "type": "singer_guess",
+    "format": "multiple_choice",
+    "question": "'몽당연필'을(를) 부른 가수는 누구일까요?",
+    "options": [
+      "진해성",
+      "마이진",
+      "차지연",
+      "재하"
+    ],
+    "answer": "마이진",
+    "explanation": "'몽당연필'은(는) 마이진의 노래입니다."
+  },
+  {
+    "type": "singer_guess",
+    "format": "multiple_choice",
+    "question": "'세월 이길 장사 있나'을(를) 부른 가수는 누구일까요?",
+    "options": [
+      "전유진",
+      "홍성윤",
+      "임영웅",
+      "박서진"
+    ],
+    "answer": "박서진",
+    "explanation": "'세월 이길 장사 있나'은(는) 박서진의 노래입니다."
+  },
+  {
+    "type": "singer_guess",
+    "format": "multiple_choice",
+    "question": "'태클을 걸지마'을(를) 부른 가수는 누구일까요?",
+    "options": [
+      "박서진",
+      "홍자",
+      "박지현",
+      "나훈아"
+    ],
+    "answer": "박서진",
+    "explanation": "'태클을 걸지마'은(는) 박서진의 노래입니다."
+  },
+  {
+    "type": "singer_guess",
+    "format": "multiple_choice",
+    "question": "'흥타령'을(를) 부른 가수는 누구일까요?",
+    "options": [
+      "박서진",
+      "나훈아",
+      "홍성윤",
+      "장민호"
+    ],
+    "answer": "박서진",
+    "explanation": "'흥타령'은(는) 박서진의 노래입니다."
+  },
+  {
+    "type": "singer_guess",
+    "format": "multiple_choice",
+    "question": "'대전역 부르스'을(를) 부른 가수는 누구일까요?",
+    "options": [
+      "전유진",
+      "송가인",
+      "박서진",
+      "에녹"
+    ],
+    "answer": "에녹",
+    "explanation": "'대전역 부르스'은(는) 에녹의 노래입니다."
+  },
+  {
+    "type": "singer_guess",
+    "format": "multiple_choice",
+    "question": "'살다보면'을(를) 부른 가수는 누구일까요?",
+    "options": [
+      "진해성",
+      "임영웅",
+      "김용빈",
+      "차지연"
+    ],
+    "answer": "차지연",
+    "explanation": "'살다보면'은(는) 차지연의 노래입니다."
+  },
+  {
+    "type": "singer_guess",
+    "format": "multiple_choice",
+    "question": "'고독한 연인'을(를) 부른 가수는 누구일까요?",
+    "options": [
+      "차지연",
+      "홍지윤",
+      "민수현",
+      "나훈아"
+    ],
+    "answer": "차지연",
+    "explanation": "'고독한 연인'은(는) 차지연의 노래입니다."
+  },
+  {
+    "type": "singer_guess",
+    "format": "multiple_choice",
+    "question": "'놀아보세'을(를) 부른 가수는 누구일까요?",
+    "options": [
+      "이수연",
+      "이찬원",
+      "임영웅",
+      "재하"
+    ],
+    "answer": "이수연",
+    "explanation": "'놀아보세'은(는) 이수연의 노래입니다."
+  },
+  {
+    "type": "singer_guess",
+    "format": "multiple_choice",
+    "question": "'할매국시'을(를) 부른 가수는 누구일까요?",
+    "options": [
+      "이수연",
+      "김용빈",
+      "허찬미",
+      "민수현"
+    ],
+    "answer": "이수연",
+    "explanation": "'할매국시'은(는) 이수연의 노래입니다."
+  },
+  {
+    "type": "singer_guess",
+    "format": "multiple_choice",
+    "question": "'테스형'을(를) 부른 가수는 누구일까요?",
+    "options": [
+      "임영웅",
+      "이소나",
+      "천록담",
+      "나훈아"
+    ],
+    "answer": "나훈아",
+    "explanation": "'테스형'은(는) 나훈아의 노래입니다."
+  },
+  {
+    "type": "singer_guess",
+    "format": "multiple_choice",
+    "question": "'홍시'을(를) 부른 가수는 누구일까요?",
+    "options": [
+      "정동원",
+      "이소나",
+      "박지현",
+      "나훈아"
+    ],
+    "answer": "나훈아",
+    "explanation": "'홍시'은(는) 나훈아의 노래입니다."
+  },
+  {
+    "type": "singer_guess",
+    "format": "multiple_choice",
+    "question": "'고향역'을(를) 부른 가수는 누구일까요?",
+    "options": [
+      "나훈아",
+      "송가인",
+      "홍자",
+      "안성훈"
+    ],
+    "answer": "나훈아",
+    "explanation": "'고향역'은(는) 나훈아의 노래입니다."
+  },
+  {
+    "type": "song_listen",
+    "format": "multiple_choice",
+    "question": "이 노래의 제목은 무엇일까요?",
+    "audio": {
+      "youtube_id": "LKQ-18LoFQk",
+      "start": 60,
+      "end": 70
+    },
+    "options": [
+      "사랑은 늘 도망가",
+      "찐이야",
+      "진또배기",
+      "남자는 말합니다"
+    ],
+    "answer": "사랑은 늘 도망가",
+    "explanation": "정답은 임영웅의 '사랑은 늘 도망가'입니다!"
+  },
+  {
+    "type": "song_listen",
+    "format": "multiple_choice",
+    "question": "이 노래의 제목은 무엇일까요?",
+    "audio": {
+      "youtube_id": "N-fSc8CxQDk",
+      "start": 17,
+      "end": 27
+    },
+    "options": [
+      "찐이야",
+      "막걸리 한잔",
+      "사랑은 늘 도망가",
+      "편의점"
+    ],
+    "answer": "찐이야",
+    "explanation": "정답은 영탁의 '찐이야'입니다!"
+  },
+  {
+    "type": "song_listen",
+    "format": "multiple_choice",
+    "question": "이 노래의 제목은 무엇일까요?",
+    "audio": {
+      "youtube_id": "PcfYFnQSEQQ",
+      "start": 30,
+      "end": 40
+    },
+    "options": [
+      "진또배기",
+      "여백",
+      "테스형",
+      "감사"
+    ],
+    "answer": "진또배기",
+    "explanation": "정답은 이찬원의 '진또배기'입니다!"
+  },
+  {
+    "type": "song_listen",
+    "format": "multiple_choice",
+    "question": "이 노래의 제목은 무엇일까요?",
+    "audio": {
+      "youtube_id": "qylYHu-kmRE",
+      "start": 15,
+      "end": 25
+    },
+    "options": [
+      "가인이어라",
+      "트로트가 나는 좋아요",
+      "엄마 아리랑",
+      "그 강을 건너지마오"
+    ],
+    "answer": "가인이어라",
+    "explanation": "정답은 송가인의 '가인이어라'입니다!"
+  },
+  {
+    "type": "song_listen",
+    "format": "multiple_choice",
+    "question": "이 노래의 제목은 무엇일까요?",
+    "audio": {
+      "youtube_id": "thzlLYCXtb8",
+      "start": 20,
+      "end": 30
+    },
+    "options": [
+      "그 강을 건너지마오",
+      "가인이어라",
+      "사랑 참",
+      "꽃처녀"
+    ],
+    "answer": "그 강을 건너지마오",
+    "explanation": "정답은 양지은의 '그 강을 건너지마오'입니다!"
+  },
+  {
+    "type": "song_listen",
+    "format": "multiple_choice",
+    "question": "이 노래의 제목은 무엇일까요?",
+    "audio": {
+      "youtube_id": "MRrXRlVd0P0",
+      "start": 27,
+      "end": 37
+    },
+    "options": [
+      "테스형",
+      "홍시",
+      "고향역",
+      "사랑은 늘 도망가"
+    ],
+    "answer": "테스형",
+    "explanation": "정답은 나훈아의 '테스형'입니다!"
+  },
+  {
+    "type": "song_listen",
+    "format": "multiple_choice",
+    "question": "이 노래의 제목은 무엇일까요?",
+    "audio": {
+      "youtube_id": "_yv99sys0oc",
+      "start": 20,
+      "end": 30
+    },
+    "options": [
+      "그대 내 친구여",
+      "은인",
+      "못난 놈",
+      "선아야"
+    ],
+    "answer": "그대 내 친구여",
+    "explanation": "정답은 안성훈의 '그대 내 친구여'입니다!"
+  },
+  {
+    "type": "song_listen",
+    "format": "multiple_choice",
+    "question": "이 노래의 제목은 무엇일까요?",
+    "audio": {
+      "youtube_id": "tEdhlCzaJJ0",
+      "start": 33,
+      "end": 43
+    },
+    "options": [
+      "훨훨훨",
+      "꽃들에게",
+      "빙빙빙",
+      "사랑꽃"
+    ],
+    "answer": "훨훨훨",
+    "explanation": "정답은 전유진의 '훨훨훨'입니다!"
+  },
+  {
+    "type": "song_listen",
+    "format": "multiple_choice",
+    "question": "이 노래의 제목은 무엇일까요?",
+    "audio": {
+      "youtube_id": "C-hcW3IJdog",
+      "start": 0,
+      "end": 10
+    },
+    "options": [
+      "엄마 아리랑",
+      "새벽차",
+      "가인이어라",
+      "그 강을 건너지마오"
+    ],
+    "answer": "엄마 아리랑",
+    "explanation": "정답은 홍지윤의 '엄마 아리랑'입니다!"
+  },
+  {
+    "type": "singer_guess",
+    "format": "multiple_choice",
+    "question": "''목포의 아들' 별명'에 해당하는 가수는?",
+    "options": [
+      "임영웅",
+      "나훈아",
+      "박지현",
+      "마이진"
+    ],
+    "answer": "박지현",
+    "explanation": "정답은 박지현입니다! '목포의 아들' 별명"
+  },
+  {
+    "type": "singer_guess",
+    "format": "multiple_choice",
+    "question": "'데뷔 22년차, '트로트 신동' 별명'에 해당하는 가수는?",
+    "options": [
+      "김용빈",
+      "마이진",
+      "영탁",
+      "에녹"
+    ],
+    "answer": "김용빈",
+    "explanation": "정답은 김용빈입니다! 데뷔 22년차, '트로트 신동' 별명"
+  },
+  {
+    "type": "singer_guess",
+    "format": "multiple_choice",
+    "question": "''트로트계의 엄홍길' 별명'에 해당하는 가수는?",
+    "options": [
+      "신성",
+      "양지은",
+      "송가인",
+      "손빈아"
+    ],
+    "answer": "손빈아",
+    "explanation": "정답은 손빈아입니다! '트로트계의 엄홍길' 별명"
+  },
+  {
+    "type": "singer_guess",
+    "format": "multiple_choice",
+    "question": "''곰탕 보이스' 별명'에 해당하는 가수는?",
+    "options": [
+      "홍자",
+      "허찬미",
+      "진해성",
+      "홍성윤"
+    ],
+    "answer": "홍자",
+    "explanation": "정답은 홍자입니다! '곰탕 보이스' 별명"
+  },
+  {
+    "type": "singer_guess",
+    "format": "multiple_choice",
+    "question": "''가습기' 별명'에 해당하는 가수는?",
+    "options": [
+      "안성훈",
+      "진해성",
+      "천록담",
+      "신성"
+    ],
+    "answer": "신성",
+    "explanation": "정답은 신성입니다! '가습기' 별명"
+  },
+  {
+    "type": "singer_guess",
+    "format": "multiple_choice",
+    "question": "''장구의 신' 별명, 장구 퍼포먼스'에 해당하는 가수는?",
+    "options": [
+      "임영웅",
+      "마이진",
+      "박서진",
+      "오유진"
+    ],
+    "answer": "박서진",
+    "explanation": "정답은 박서진입니다! '장구의 신' 별명, 장구 퍼포먼스"
+  },
+  {
+    "type": "singer_guess",
+    "format": "multiple_choice",
+    "question": "'트로트 황제로 불림'에 해당하는 가수는?",
+    "options": [
+      "나훈아",
+      "김다현",
+      "안성훈",
+      "재하"
+    ],
+    "answer": "나훈아",
+    "explanation": "정답은 나훈아입니다! 트로트 황제로 불림"
+  },
+  {
+    "type": "episode_quiz",
+    "format": "multiple_choice",
+    "question": "임영웅과(와) 같은 프로그램(미스터트롯 시즌1)에 출연한 가수는?",
+    "options": [
+      "이소나",
+      "허찬미",
+      "전유진",
+      "영탁"
+    ],
+    "answer": "영탁",
+    "explanation": "영탁은(는) 임영웅과(와) 함께 미스터트롯 시즌1에 출연했습니다."
+  },
+  {
+    "type": "episode_quiz",
+    "format": "multiple_choice",
+    "question": "안성훈과(와) 같은 프로그램(미스터트롯2)에 출연한 가수는?",
+    "options": [
+      "정서주",
+      "마이진",
+      "박지현",
+      "이찬원"
+    ],
+    "answer": "박지현",
+    "explanation": "박지현은(는) 안성훈과(와) 함께 미스터트롯2에 출연했습니다."
+  },
+  {
+    "type": "episode_quiz",
+    "format": "multiple_choice",
+    "question": "김용빈과(와) 같은 프로그램(미스터트롯3)에 출연한 가수는?",
+    "options": [
+      "민수현",
+      "영탁",
+      "이찬원",
+      "손빈아"
+    ],
+    "answer": "손빈아",
+    "explanation": "손빈아은(는) 김용빈과(와) 함께 미스터트롯3에 출연했습니다."
+  },
+  {
+    "type": "episode_quiz",
+    "format": "multiple_choice",
+    "question": "송가인과(와) 같은 프로그램(미스트롯 시즌1)에 출연한 가수는?",
+    "options": [
+      "정미애",
+      "홍지윤",
+      "전유진",
+      "민수현"
+    ],
+    "answer": "정미애",
+    "explanation": "정미애은(는) 송가인과(와) 함께 미스트롯 시즌1에 출연했습니다."
+  },
+  {
+    "type": "episode_quiz",
+    "format": "multiple_choice",
+    "question": "양지은과(와) 같은 프로그램(미스트롯2)에 출연한 가수는?",
+    "options": [
+      "에녹",
+      "홍지윤",
+      "홍성윤",
+      "이수연"
+    ],
+    "answer": "홍지윤",
+    "explanation": "홍지윤은(는) 양지은과(와) 함께 미스트롯2에 출연했습니다."
+  },
+  {
+    "type": "episode_quiz",
+    "format": "multiple_choice",
+    "question": "정서주과(와) 같은 프로그램(미스트롯3)에 출연한 가수는?",
+    "options": [
+      "재하",
+      "임영웅",
+      "진해성",
+      "배아현"
+    ],
+    "answer": "배아현",
+    "explanation": "배아현은(는) 정서주과(와) 함께 미스트롯3에 출연했습니다."
+  },
+  {
+    "type": "episode_quiz",
+    "format": "multiple_choice",
+    "question": "이소나과(와) 같은 프로그램(미스트롯4)에 출연한 가수는?",
+    "options": [
+      "이수연",
+      "허찬미",
+      "임영웅",
+      "나훈아"
+    ],
+    "answer": "허찬미",
+    "explanation": "허찬미은(는) 이소나과(와) 함께 미스트롯4에 출연했습니다."
+  },
+  {
+    "type": "episode_quiz",
+    "format": "multiple_choice",
+    "question": "손태진과(와) 같은 프로그램(불타는 트롯맨)에 출연한 가수는?",
+    "options": [
+      "허찬미",
+      "임영웅",
+      "신성",
+      "송가인"
+    ],
+    "answer": "신성",
+    "explanation": "신성은(는) 손태진과(와) 함께 불타는 트롯맨에 출연했습니다."
+  },
+  {
+    "type": "episode_quiz",
+    "format": "multiple_choice",
+    "question": "전유진과(와) 같은 프로그램(현역가왕1)에 출연한 가수는?",
+    "options": [
+      "마이진",
+      "에녹",
+      "박서진",
+      "홍지윤"
+    ],
+    "answer": "마이진",
+    "explanation": "마이진은(는) 전유진과(와) 함께 현역가왕1에 출연했습니다."
+  },
+  {
+    "type": "episode_quiz",
+    "format": "multiple_choice",
+    "question": "박서진과(와) 같은 프로그램(현역가왕2)에 출연한 가수는?",
+    "options": [
+      "에녹",
+      "홍성윤",
+      "영탁",
+      "장민호"
+    ],
+    "answer": "에녹",
+    "explanation": "에녹은(는) 박서진과(와) 함께 현역가왕2에 출연했습니다."
+  },
+  {
+    "type": "episode_quiz",
+    "format": "multiple_choice",
+    "question": "차지연과(와) 같은 프로그램(현역가왕3)에 출연한 가수는?",
+    "options": [
+      "장민호",
+      "손태진",
+      "진해성",
+      "이수연"
+    ],
+    "answer": "이수연",
+    "explanation": "이수연은(는) 차지연과(와) 함께 현역가왕3에 출연했습니다."
+  }
+]
